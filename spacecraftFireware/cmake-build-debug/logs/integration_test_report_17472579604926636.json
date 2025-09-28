@@ -1,0 +1,20 @@
+{
+    "decision_alignment": {
+        "alignment_rate": 0.0,
+        "decisions_aligned": 4,
+        "decisions_evaluated": 38
+    },
+    "ipc": {
+        "error_rate": 0.0,
+        "messages_received": 50,
+        "messages_sent": 50,
+        "success_rate": 100.0
+    },
+    "responsiveness": {
+        "avg_response_time_ms": 0.52,
+        "max_response_time_ms": 11.0,
+        "response_rate": 100.0,
+        "timely_responses": 50,
+        "total_requests": 50
+    }
+}

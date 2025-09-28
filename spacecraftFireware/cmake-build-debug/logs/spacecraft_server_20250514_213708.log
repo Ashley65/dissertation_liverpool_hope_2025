@@ -1,0 +1,65 @@
+2025-05-14 21:37:08 [INFO] Logging to file: logs/spacecraft_server_20250514_213708.log
+2025-05-14 21:37:08 [INFO] Starting spacecraft server on tcp://*:5555
+2025-05-14 21:37:08 [INFO] Spacecraft server initialized
+2025-05-14 21:37:08 [INFO] Press Ctrl+C to stop the server
+2025-05-14 21:37:08 [INFO] Binding to tcp://*:5555
+2025-05-14 21:37:08 [INFO] Server bound to tcp://*:5555
+2025-05-14 21:37:08 [INFO] Environment socket bound to tcp://*:5556
+2025-05-14 21:37:08 [INFO] [Safety] Safety monitoring system started
+2025-05-14 21:37:08 [INFO] Server started successfully
+2025-05-14 21:37:08 [INFO] Starting environment message loop
+2025-05-14 21:38:44 [WARNING] [Safety] High temperature detected: 75.032803
+2025-05-14 21:38:44 [WARNING] [Safety] High temperature detected: 75.266973
+2025-05-14 21:38:44 [WARNING] [Safety] High temperature detected: 75.270435
+2025-05-14 21:38:45 [WARNING] [Safety] High temperature detected: 75.128608
+2025-05-14 21:38:45 [WARNING] [Safety] High temperature detected: 75.070145
+2025-05-14 21:38:46 [WARNING] [Safety] High temperature detected: 75.012061
+2025-05-14 21:38:46 [WARNING] [Safety] High temperature detected: 75.124715
+2025-05-14 21:38:46 [WARNING] [Safety] High temperature detected: 75.165988
+2025-05-14 21:38:47 [WARNING] [Safety] High temperature detected: 75.452626
+2025-05-14 21:38:47 [WARNING] [Safety] High temperature detected: 75.440009
+2025-05-14 21:38:47 [WARNING] [Safety] High temperature detected: 75.245135
+2025-05-14 21:38:47 [WARNING] [Safety] High temperature detected: 75.116852
+2025-05-14 21:38:47 [WARNING] [Safety] High temperature detected: 75.090715
+2025-05-14 21:38:47 [WARNING] [Safety] High temperature detected: 75.104687
+2025-05-14 21:38:47 [WARNING] [Safety] High temperature detected: 75.197838
+2025-05-14 21:38:47 [WARNING] [Safety] High temperature detected: 75.444883
+2025-05-14 21:38:48 [WARNING] [Safety] High temperature detected: 75.412809
+2025-05-14 21:38:48 [WARNING] [Safety] High temperature detected: 75.218399
+2025-05-14 21:38:48 [WARNING] [Safety] High temperature detected: 75.220352
+2025-05-14 21:38:48 [WARNING] [Safety] High temperature detected: 75.374883
+2025-05-14 21:38:48 [WARNING] [Safety] High temperature detected: 75.386364
+2025-05-14 21:38:48 [WARNING] [Safety] High temperature detected: 75.187149
+2025-05-14 21:38:48 [WARNING] [Safety] High temperature detected: 75.122318
+2025-05-14 21:38:48 [WARNING] [Safety] High temperature detected: 75.142093
+2025-05-14 21:38:48 [WARNING] [Safety] High temperature detected: 75.399663
+2025-05-14 21:38:49 [WARNING] [Safety] High temperature detected: 75.559318
+2025-05-14 21:38:49 [WARNING] [Safety] High temperature detected: 75.596778
+2025-05-14 21:38:49 [WARNING] [Safety] High temperature detected: 75.780115
+2025-05-14 21:38:49 [WARNING] [Safety] High temperature detected: 75.954115
+2025-05-14 21:38:49 [WARNING] [Safety] High temperature detected: 75.824032
+2025-05-14 21:38:49 [WARNING] [Safety] High temperature detected: 75.760714
+2025-05-14 21:38:49 [WARNING] [Safety] High temperature detected: 75.972181
+2025-05-14 21:38:49 [WARNING] [Safety] High temperature detected: 75.877238
+2025-05-14 21:38:49 [WARNING] [Safety] High temperature detected: 75.798661
+2025-05-14 21:38:50 [WARNING] [Safety] High temperature detected: 75.746148
+2025-05-14 21:38:50 [WARNING] [Safety] High temperature detected: 75.978778
+2025-05-14 21:38:50 [WARNING] [Safety] High temperature detected: 76.109820
+2025-05-14 21:38:50 [WARNING] [Safety] High temperature detected: 76.283482
+2025-05-14 21:38:50 [WARNING] [Safety] High temperature detected: 76.195452
+2025-05-14 21:38:50 [WARNING] [Safety] High temperature detected: 76.110914
+2025-05-14 21:38:50 [WARNING] [Safety] High temperature detected: 76.036154
+2025-05-14 21:38:50 [WARNING] [Safety] High temperature detected: 76.013176
+2025-05-14 21:38:50 [WARNING] [Safety] High temperature detected: 76.147796
+2025-05-14 21:38:50 [WARNING] [Safety] High temperature detected: 76.416801
+2025-05-14 21:38:51 [WARNING] [Safety] High temperature detected: 76.506950
+2025-05-14 21:38:51 [WARNING] [Safety] High temperature detected: 76.704536
+2025-05-14 21:38:51 [WARNING] [Safety] High temperature detected: 76.952168
+2025-05-14 21:38:51 [WARNING] [Safety] High temperature detected: 76.927067
+2025-05-14 21:38:51 [WARNING] [Safety] High temperature detected: 77.183883
+2025-05-14 21:38:51 [WARNING] [Safety] High temperature detected: 77.059757
+2025-05-14 21:38:51 [WARNING] [Safety] High temperature detected: 77.210933
+2025-05-14 21:38:51 [WARNING] [Safety] High temperature detected: 77.041813
+2025-05-14 21:38:51 [WARNING] [Safety] High temperature detected: 76.963520
+2025-05-14 21:38:52 [WARNING] [Safety] High temperature detected: 76.795378
+2025-05-14 21:38:52 [WARNING] [Safety] High temperature detected: 76.599332

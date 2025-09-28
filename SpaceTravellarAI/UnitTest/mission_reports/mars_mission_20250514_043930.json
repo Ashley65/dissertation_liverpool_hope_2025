@@ -1,0 +1,24 @@
+{
+  "mission_name": "Mars Pathfinder II",
+  "duration": 3,
+  "success_status": "UNSUCCESSFUL",
+  "success_score": -48,
+  "final_distance": 276526400000.0,
+  "remaining_fuel": 0.0,
+  "samples_collected": 0,
+  "phase_history": [
+    "LAUNCH",
+    "LAUNCH",
+    "LAUNCH"
+  ],
+  "action_history": [
+    "decrease_velocity",
+    "emergency_protocol",
+    "increase_velocity"
+  ],
+  "reward_history": [
+    0.0,
+    0.2,
+    -2.7755575615628914e-17
+  ]
+}

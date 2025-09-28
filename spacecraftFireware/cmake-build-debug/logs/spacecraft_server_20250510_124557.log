@@ -1,0 +1,7 @@
+2025-05-10 12:45:57 [INFO] Logging to file: logs/spacecraft_server_20250510_124557.log
+2025-05-10 12:45:57 [INFO] Starting spacecraft server on tcp://*:5555
+2025-05-10 12:45:57 [INFO] Spacecraft server initialized
+2025-05-10 12:45:57 [INFO] Press Ctrl+C to stop the server
+2025-05-10 12:45:57 [INFO] Binding to tcp://*:5555
+2025-05-10 12:45:57 [ERROR] Failed to start server: Address in use
+2025-05-10 12:45:57 [ERROR] Fatal error: Address in use

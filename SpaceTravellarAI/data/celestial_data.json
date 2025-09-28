@@ -1,0 +1,38 @@
+{
+  "celestial_bodies": {
+    "Mars": {
+      "position": [
+        220000000000.0,
+        0.0,
+        0.0
+      ],
+      "mass": 6.39e+23,
+      "radius": 3389500.0
+    },
+    "Earth": {
+      "position": [
+        150000000000.0,
+        0.0,
+        0.0
+      ],
+      "mass": 5.97e+24,
+      "radius": 6371000.0
+    },
+    "spacecraft": {
+      "position": [
+        150000000000.0,
+        0.0,
+        0.0
+      ],
+      "velocity": [
+        0,
+        0,
+        0
+      ],
+      "mass": 1000.0,
+      "fuel": 100.0,
+      "status": "READY"
+    }
+  },
+  "mission_targets": {}
+}

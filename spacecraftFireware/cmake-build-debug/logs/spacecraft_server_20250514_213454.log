@@ -1,0 +1,9 @@
+2025-05-14 21:34:54 [INFO] Logging to file: logs/spacecraft_server_20250514_213454.log
+2025-05-14 21:34:54 [INFO] Starting spacecraft server on tcp://*:5555
+2025-05-14 21:34:54 [INFO] Spacecraft server initialized
+2025-05-14 21:34:54 [INFO] Press Ctrl+C to stop the server
+2025-05-14 21:34:54 [INFO] Binding to tcp://*:5555
+2025-05-14 21:34:54 [INFO] Server bound to tcp://*:5555
+2025-05-14 21:34:54 [INFO] [Safety] Safety monitoring system started
+2025-05-14 21:34:54 [INFO] Server started successfully
+2025-05-14 21:34:54 [INFO] Starting environment message loop

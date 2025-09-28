@@ -1,0 +1,14 @@
+2025-05-14 16:21:57 [INFO] Logging to file: logs/spacecraft_server_20250514_162157.log
+2025-05-14 16:21:57 [INFO] Starting spacecraft server on --gtest_list_tests
+2025-05-14 16:21:57 [INFO] Spacecraft server initialized
+2025-05-14 16:21:57 [INFO] Press Ctrl+C to stop the server
+2025-05-14 16:21:57 [INFO] Binding to --gtest_list_tests
+2025-05-14 16:21:57 [ERROR] Failed to start server: Invalid argument
+2025-05-14 16:21:57 [ERROR] Fatal error: Invalid argument
+2025-05-14 16:21:57 [INFO] Logging to file: logs/spacecraft_server_20250514_162157.log
+2025-05-14 16:21:57 [INFO] Starting spacecraft server on --gtest_color=no
+2025-05-14 16:21:57 [INFO] Spacecraft server initialized
+2025-05-14 16:21:57 [INFO] Press Ctrl+C to stop the server
+2025-05-14 16:21:57 [INFO] Binding to --gtest_color=no
+2025-05-14 16:21:57 [ERROR] Failed to start server: Invalid argument
+2025-05-14 16:21:57 [ERROR] Fatal error: Invalid argument

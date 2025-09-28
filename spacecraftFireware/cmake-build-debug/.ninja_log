@@ -1,0 +1,15 @@
+# ninja log v6
+2275	2720	7653860767662263	spacecraftFireware.exe	e274d0f09ae438d9
+47	5943	7766311759259466	CMakeFiles/spacecraftFirmware.dir/src/safety/safetyManager.cpp.obj	83dae82b63889658
+29	6293	7766311759078642	CMakeFiles/spacecraftFirmware.dir/src/missionContext/SpacecraftStatus.cpp.obj	26ded6d07a55e89e
+35	4101	7766311759139195	CMakeFiles/spacecraftFirmware.dir/src/logger/logger.cpp.obj	a80c37239f139e53
+15	9390	7766311758943490	CMakeFiles/spacecraftFirmware.dir/src/networking/spacecraftServer.cpp.obj	e0df488721429ab0
+20	5742	7766311758983520	CMakeFiles/spacecraftFirmware.dir/src/command/command.cpp.obj	58f6179a2ede6ebb
+9	9146	7766311758886681	CMakeFiles/spacecraftFirmware.dir/src/main.cpp.obj	d4dcb72c5b2b36bc
+25	6261	7766311759038662	CMakeFiles/spacecraftFirmware.dir/src/missionContext/MissionContext.cpp.obj	ea3b06e4303c1dde
+5643	7262	7689609432765267	spacecraftFirmware.exe	f36023d5df40476
+60	757	7766311759405027	CMakeFiles/spacecraftFirmware.dir/src/memory/shortTermMemory.cpp.obj	2e2f823ca993aaad
+40	4768	7766311759189207	CMakeFiles/spacecraftFirmware.dir/src/memory/InternediateMemory.cpp.obj	527e265f21807402
+17	434	7773356095109061	build.ninja	1b80d8f6eed58f88
+54	760	7766311759329912	CMakeFiles/spacecraftFirmware.dir/src/memory/longTermMemory.cpp.obj	a339e6d1bc1e9421
+68	6473	7766311759460431	CMakeFiles/spacecraftFirmware.dir/src/Test_spacecraftFirmware.cpp.obj	71a4bb065e053347

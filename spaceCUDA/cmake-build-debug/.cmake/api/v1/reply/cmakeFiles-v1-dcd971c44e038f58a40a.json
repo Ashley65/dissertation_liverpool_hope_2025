@@ -1,0 +1,461 @@
+{
+	"inputs" : 
+	[
+		{
+			"path" : "CMakeLists.txt"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.31.6/CMakeSystem.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/scripts/buildsystems/vcpkg.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeDependentOption.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInitialize.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-Initialize.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.31.6/CMakeCXXCompiler.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.31.6/CMakeCUDACompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeSystemSpecificInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeGenericSystem.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeInitializeConfigs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/WindowsPaths.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCXXInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeLanguageInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isGenerated" : true,
+			"path" : "cmake-build-debug/CMakeFiles/3.31.6/CMakeRCCompiler.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeRCInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCXXLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC-CXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCUDAInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/NVIDIA-CUDA.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/NVIDIA.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Compiler/CMakeCommonCompilerMacros.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-NVIDIA-CUDA.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Windows-MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeCommonLanguageInclude.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCUDALinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CMakeCommonLinkerInformation.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC-CUDA.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Platform/Linker/Windows-MSVC.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/FindOpenGL.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/glfw3/glfw3ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/glfw3/glfw3Config.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/Internal/CheckSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/glfw3/glfw3Targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/glfw3/glfw3Targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/glfw3/glfw3Targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/glew/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/SelectLibraryConfigurations.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/glew/glew-config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/glew/glew-targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/glew/glew-targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/glew/glew-targets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/glew/CopyImportedTargetProperties.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/FindThreads.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CheckLibraryExists.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CheckIncludeFileCXX.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CheckCXXSourceCompiles.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/cppzmq/cppzmqConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/cppzmq/cppzmqConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/zeromq/vcpkg-cmake-wrapper.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/zeromq/ZeroMQConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/zeromq/ZeroMQConfig.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/zeromq/ZeroMQTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/zeromq/ZeroMQTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/zeromq/ZeroMQTargets-release.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/cppzmq/cppzmqTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/nlohmann_json/nlohmann_jsonConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/nlohmann_json/nlohmann_jsonConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/nlohmann_json/nlohmann_jsonTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/Catch2/Catch2ConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/Catch2/Catch2Config.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/Catch2/Catch2Targets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/Catch2/Catch2Targets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/Catch2/Catch2Targets-release.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/FindGTest.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/GoogleTest.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/FindPackageHandleStandardArgs.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/FindPackageMessage.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/gtest/GTestConfigVersion.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/gtest/GTestConfig.cmake"
+		},
+		{
+			"isCMake" : true,
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/AppData/Local/Programs/CLion/bin/cmake/win/x64/share/cmake-3.31/Modules/CMakeFindDependencyMacro.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/gtest/GTestTargets.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/gtest/GTestTargets-debug.cmake"
+		},
+		{
+			"isExternal" : true,
+			"path" : "C:/Users/DevAccount/.vcpkg-clion/vcpk/installed/x64-windows/share/gtest/GTestTargets-release.cmake"
+		}
+	],
+	"kind" : "cmakeFiles",
+	"paths" : 
+	{
+		"build" : "F:/Projects/C-C++ Projects/spaceCUDA/cmake-build-debug",
+		"source" : "F:/Projects/C-C++ Projects/spaceCUDA"
+	},
+	"version" : 
+	{
+		"major" : 1,
+		"minor" : 1
+	}
+}

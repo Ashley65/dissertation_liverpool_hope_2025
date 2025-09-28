@@ -1,0 +1,3 @@
+C:/Users/DevAccount/Desktop/Newfolde/spacecraftFireware/cmake-build-debug/CMakeFiles/spacecraftFirmware.dir
+C:/Users/DevAccount/Desktop/Newfolde/spacecraftFireware/cmake-build-debug/CMakeFiles/edit_cache.dir
+C:/Users/DevAccount/Desktop/Newfolde/spacecraftFireware/cmake-build-debug/CMakeFiles/rebuild_cache.dir

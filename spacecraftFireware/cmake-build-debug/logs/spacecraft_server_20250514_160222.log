@@ -1,0 +1,2549 @@
+2025-05-14 16:02:22 [INFO] Logging to file: logs/spacecraft_server_20250514_160222.log
+2025-05-14 16:02:22 [INFO] Starting spacecraft server on tcp://*:5555
+2025-05-14 16:02:22 [INFO] Spacecraft server initialized
+2025-05-14 16:02:22 [INFO] Press Ctrl+C to stop the server
+2025-05-14 16:02:22 [INFO] Binding to tcp://*:5555
+2025-05-14 16:02:22 [INFO] Server bound to tcp://*:5555
+2025-05-14 16:02:22 [INFO] [Safety] Safety monitoring system started
+2025-05-14 16:02:22 [INFO] Server started successfully
+2025-05-14 16:03:53 [WARNING] [Safety] High temperature detected: 75.078187
+2025-05-14 16:03:53 [WARNING] [Safety] High temperature detected: 75.122986
+2025-05-14 16:03:53 [WARNING] [Safety] High temperature detected: 75.156335
+2025-05-14 16:03:53 [WARNING] [Safety] High temperature detected: 75.166159
+2025-05-14 16:03:54 [WARNING] [Safety] High temperature detected: 75.401772
+2025-05-14 16:03:54 [WARNING] [Safety] High temperature detected: 75.669207
+2025-05-14 16:03:54 [WARNING] [Safety] High temperature detected: 75.595236
+2025-05-14 16:03:54 [WARNING] [Safety] High temperature detected: 75.644894
+2025-05-14 16:03:54 [WARNING] [Safety] High temperature detected: 75.500890
+2025-05-14 16:03:54 [WARNING] [Safety] High temperature detected: 75.644144
+2025-05-14 16:03:54 [WARNING] [Safety] High temperature detected: 75.708723
+2025-05-14 16:03:54 [WARNING] [Safety] High temperature detected: 75.645255
+2025-05-14 16:03:54 [WARNING] [Safety] High temperature detected: 75.609104
+2025-05-14 16:03:55 [WARNING] [Safety] High temperature detected: 75.568373
+2025-05-14 16:03:55 [WARNING] [Safety] High temperature detected: 75.564022
+2025-05-14 16:03:55 [WARNING] [Safety] High temperature detected: 75.771596
+2025-05-14 16:03:55 [WARNING] [Safety] High temperature detected: 75.629900
+2025-05-14 16:03:55 [WARNING] [Safety] High temperature detected: 75.569420
+2025-05-14 16:03:55 [WARNING] [Safety] High temperature detected: 75.516307
+2025-05-14 16:03:55 [WARNING] [Safety] High temperature detected: 75.473099
+2025-05-14 16:03:55 [WARNING] [Safety] High temperature detected: 75.312419
+2025-05-14 16:03:55 [WARNING] [Safety] High temperature detected: 75.580468
+2025-05-14 16:03:56 [WARNING] [Safety] High temperature detected: 75.674360
+2025-05-14 16:03:56 [WARNING] [Safety] High temperature detected: 75.970023
+2025-05-14 16:03:56 [WARNING] [Safety] High temperature detected: 75.944327
+2025-05-14 16:03:56 [WARNING] [Safety] High temperature detected: 76.233369
+2025-05-14 16:03:56 [WARNING] [Safety] High temperature detected: 76.085015
+2025-05-14 16:03:56 [WARNING] [Safety] High temperature detected: 76.048145
+2025-05-14 16:03:56 [WARNING] [Safety] High temperature detected: 76.342361
+2025-05-14 16:03:56 [WARNING] [Safety] High temperature detected: 76.445570
+2025-05-14 16:03:56 [WARNING] [Safety] High temperature detected: 76.246765
+2025-05-14 16:03:57 [WARNING] [Safety] High temperature detected: 76.375011
+2025-05-14 16:03:57 [WARNING] [Safety] High temperature detected: 76.211707
+2025-05-14 16:03:57 [WARNING] [Safety] High temperature detected: 76.449488
+2025-05-14 16:03:57 [WARNING] [Safety] High temperature detected: 76.509748
+2025-05-14 16:03:57 [WARNING] [Safety] High temperature detected: 76.664613
+2025-05-14 16:03:57 [WARNING] [Safety] High temperature detected: 76.603904
+2025-05-14 16:03:57 [WARNING] [Safety] High temperature detected: 76.532162
+2025-05-14 16:03:57 [WARNING] [Safety] High temperature detected: 76.587798
+2025-05-14 16:03:57 [WARNING] [Safety] High temperature detected: 76.392804
+2025-05-14 16:03:58 [WARNING] [Safety] High temperature detected: 76.453789
+2025-05-14 16:03:58 [WARNING] [Safety] High temperature detected: 76.291218
+2025-05-14 16:03:58 [WARNING] [Safety] High temperature detected: 76.486018
+2025-05-14 16:03:58 [WARNING] [Safety] High temperature detected: 76.594866
+2025-05-14 16:03:58 [WARNING] [Safety] High temperature detected: 76.423986
+2025-05-14 16:03:58 [WARNING] [Safety] High temperature detected: 76.668260
+2025-05-14 16:03:58 [WARNING] [Safety] High temperature detected: 76.554415
+2025-05-14 16:03:58 [WARNING] [Safety] High temperature detected: 76.404940
+2025-05-14 16:03:58 [WARNING] [Safety] High temperature detected: 76.641958
+2025-05-14 16:03:59 [WARNING] [Safety] High temperature detected: 76.784214
+2025-05-14 16:03:59 [WARNING] [Safety] High temperature detected: 76.772473
+2025-05-14 16:03:59 [WARNING] [Safety] High temperature detected: 76.848565
+2025-05-14 16:03:59 [WARNING] [Safety] High temperature detected: 77.113446
+2025-05-14 16:03:59 [WARNING] [Safety] High temperature detected: 77.089359
+2025-05-14 16:03:59 [WARNING] [Safety] High temperature detected: 76.986753
+2025-05-14 16:03:59 [WARNING] [Safety] High temperature detected: 77.008921
+2025-05-14 16:03:59 [WARNING] [Safety] High temperature detected: 77.228759
+2025-05-14 16:03:59 [WARNING] [Safety] High temperature detected: 77.412022
+2025-05-14 16:03:59 [WARNING] [Safety] High temperature detected: 77.330903
+2025-05-14 16:04:00 [WARNING] [Safety] High temperature detected: 77.412868
+2025-05-14 16:04:00 [WARNING] [Safety] High temperature detected: 77.231621
+2025-05-14 16:04:00 [WARNING] [Safety] High temperature detected: 77.100989
+2025-05-14 16:04:00 [WARNING] [Safety] High temperature detected: 77.224899
+2025-05-14 16:04:00 [WARNING] [Safety] High temperature detected: 77.509789
+2025-05-14 16:04:00 [WARNING] [Safety] High temperature detected: 77.638969
+2025-05-14 16:04:00 [WARNING] [Safety] High temperature detected: 77.709955
+2025-05-14 16:04:00 [WARNING] [Safety] High temperature detected: 77.726187
+2025-05-14 16:04:00 [WARNING] [Safety] High temperature detected: 77.971190
+2025-05-14 16:04:01 [WARNING] [Safety] High temperature detected: 78.040932
+2025-05-14 16:04:01 [WARNING] [Safety] High temperature detected: 78.232362
+2025-05-14 16:04:01 [WARNING] [Safety] High temperature detected: 78.521855
+2025-05-14 16:04:01 [WARNING] [Safety] High temperature detected: 78.576305
+2025-05-14 16:04:01 [WARNING] [Safety] High temperature detected: 78.639269
+2025-05-14 16:04:01 [WARNING] [Safety] High temperature detected: 78.762224
+2025-05-14 16:04:01 [WARNING] [Safety] High temperature detected: 78.750696
+2025-05-14 16:04:01 [WARNING] [Safety] High temperature detected: 78.816832
+2025-05-14 16:04:01 [WARNING] [Safety] High temperature detected: 78.825315
+2025-05-14 16:04:02 [WARNING] [Safety] High temperature detected: 79.092702
+2025-05-14 16:04:02 [WARNING] [Safety] High temperature detected: 79.071609
+2025-05-14 16:04:02 [WARNING] [Safety] High temperature detected: 79.364394
+2025-05-14 16:04:02 [WARNING] [Safety] High temperature detected: 79.590995
+2025-05-14 16:04:02 [WARNING] [Safety] High temperature detected: 79.825297
+2025-05-14 16:04:02 [WARNING] [Safety] High temperature detected: 79.813414
+2025-05-14 16:04:02 [WARNING] [Safety] High temperature detected: 80.078421
+2025-05-14 16:04:02 [WARNING] [Safety] High temperature detected: 79.907468
+2025-05-14 16:04:02 [WARNING] [Safety] High temperature detected: 80.172672
+2025-05-14 16:04:03 [WARNING] [Safety] High temperature detected: 80.382271
+2025-05-14 16:04:03 [WARNING] [Safety] High temperature detected: 80.481885
+2025-05-14 16:04:03 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:03 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:03 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:03 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:03 [WARNING] [Safety] High temperature detected: 80.433164
+2025-05-14 16:04:03 [WARNING] [Safety] Low power level: 24.995471
+2025-05-14 16:04:03 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:03 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:03 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:03 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:03 [WARNING] [Safety] High temperature detected: 80.396167
+2025-05-14 16:04:03 [WARNING] [Safety] Low power level: 25.064288
+2025-05-14 16:04:03 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:03 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:03 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:03 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:03 [WARNING] [Safety] High temperature detected: 80.562113
+2025-05-14 16:04:03 [WARNING] [Safety] Low power level: 24.963566
+2025-05-14 16:04:03 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:03 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:03 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:03 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:03 [WARNING] [Safety] High temperature detected: 80.377781
+2025-05-14 16:04:03 [WARNING] [Safety] Low power level: 24.973863
+2025-05-14 16:04:03 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:03 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:03 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:03 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:03 [WARNING] [Safety] High temperature detected: 80.480771
+2025-05-14 16:04:03 [WARNING] [Safety] Low power level: 24.951307
+2025-05-14 16:04:03 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:03 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:03 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:03 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:03 [WARNING] [Safety] High temperature detected: 80.289432
+2025-05-14 16:04:03 [WARNING] [Safety] Low power level: 25.032089
+2025-05-14 16:04:03 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:03 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:03 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:03 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:03 [WARNING] [Safety] High temperature detected: 80.469481
+2025-05-14 16:04:03 [WARNING] [Safety] Low power level: 24.999891
+2025-05-14 16:04:04 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:04 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:04 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:04 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:04 [WARNING] [Safety] High temperature detected: 80.712900
+2025-05-14 16:04:04 [WARNING] [Safety] Low power level: 25.038391
+2025-05-14 16:04:04 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:04 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:04 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:04 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:04 [WARNING] [Safety] High temperature detected: 80.647767
+2025-05-14 16:04:04 [WARNING] [Safety] Low power level: 25.078309
+2025-05-14 16:04:04 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:04 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:04 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:04 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:04 [WARNING] [Safety] High temperature detected: 80.540382
+2025-05-14 16:04:04 [WARNING] [Safety] Low power level: 25.082685
+2025-05-14 16:04:04 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:04 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:04 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:04 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:04 [WARNING] [Safety] High temperature detected: 80.565748
+2025-05-14 16:04:04 [WARNING] [Safety] Low power level: 24.923281
+2025-05-14 16:04:04 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:04 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:04 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:04 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:04 [WARNING] [Safety] High temperature detected: 80.711476
+2025-05-14 16:04:04 [WARNING] [Safety] Low power level: 24.997719
+2025-05-14 16:04:04 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:04 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:04 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:04 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:04 [WARNING] [Safety] High temperature detected: 81.005102
+2025-05-14 16:04:04 [WARNING] [Safety] Low power level: 25.013437
+2025-05-14 16:04:04 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:04 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:04 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:04 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:04 [WARNING] [Safety] High temperature detected: 80.975958
+2025-05-14 16:04:04 [WARNING] [Safety] Low power level: 24.960466
+2025-05-14 16:04:04 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:04 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:04 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:04 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:04 [WARNING] [Safety] High temperature detected: 81.210642
+2025-05-14 16:04:04 [WARNING] [Safety] Low power level: 24.995470
+2025-05-14 16:04:04 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:04 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:04 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:04 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:04 [WARNING] [Safety] High temperature detected: 81.147767
+2025-05-14 16:04:04 [WARNING] [Safety] Low power level: 25.007864
+2025-05-14 16:04:05 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:05 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:05 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:05 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:05 [WARNING] [Safety] High temperature detected: 81.425017
+2025-05-14 16:04:05 [WARNING] [Safety] Low power level: 24.945826
+2025-05-14 16:04:05 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:05 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:05 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:05 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:05 [WARNING] [Safety] High temperature detected: 81.229708
+2025-05-14 16:04:05 [WARNING] [Safety] Low power level: 24.992266
+2025-05-14 16:04:05 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:05 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:05 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:05 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:05 [WARNING] [Safety] High temperature detected: 81.409410
+2025-05-14 16:04:05 [WARNING] [Safety] Low power level: 25.012191
+2025-05-14 16:04:05 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:05 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:05 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:05 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:05 [WARNING] [Safety] High temperature detected: 81.221494
+2025-05-14 16:04:05 [WARNING] [Safety] Low power level: 24.946739
+2025-05-14 16:04:05 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:05 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:05 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:05 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:05 [WARNING] [Safety] High temperature detected: 81.117886
+2025-05-14 16:04:05 [WARNING] [Safety] Low power level: 25.061375
+2025-05-14 16:04:05 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:05 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:05 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:05 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:05 [WARNING] [Safety] High temperature detected: 81.266200
+2025-05-14 16:04:05 [WARNING] [Safety] Low power level: 25.047634
+2025-05-14 16:04:05 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:05 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:05 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:05 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:05 [WARNING] [Safety] High temperature detected: 81.535460
+2025-05-14 16:04:05 [WARNING] [Safety] Low power level: 24.941813
+2025-05-14 16:04:05 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:05 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:05 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:05 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:05 [WARNING] [Safety] High temperature detected: 81.789227
+2025-05-14 16:04:05 [WARNING] [Safety] Low power level: 24.969634
+2025-05-14 16:04:05 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:05 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:05 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:05 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:05 [WARNING] [Safety] High temperature detected: 81.788020
+2025-05-14 16:04:05 [WARNING] [Safety] Low power level: 24.985630
+2025-05-14 16:04:05 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:05 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:05 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:05 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:05 [WARNING] [Safety] High temperature detected: 81.680023
+2025-05-14 16:04:05 [WARNING] [Safety] Low power level: 25.020718
+2025-05-14 16:04:06 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:06 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:06 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:06 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:06 [WARNING] [Safety] High temperature detected: 81.532072
+2025-05-14 16:04:06 [WARNING] [Safety] Low power level: 24.983789
+2025-05-14 16:04:06 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:06 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:06 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:06 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:06 [WARNING] [Safety] High temperature detected: 81.414302
+2025-05-14 16:04:06 [WARNING] [Safety] Low power level: 25.034296
+2025-05-14 16:04:06 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:06 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:06 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:06 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:06 [WARNING] [Safety] High temperature detected: 81.696856
+2025-05-14 16:04:06 [WARNING] [Safety] Low power level: 25.066512
+2025-05-14 16:04:06 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:06 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:06 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:06 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:06 [WARNING] [Safety] High temperature detected: 81.813935
+2025-05-14 16:04:06 [WARNING] [Safety] Low power level: 25.058784
+2025-05-14 16:04:06 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:06 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:06 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:06 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:06 [WARNING] [Safety] High temperature detected: 82.046877
+2025-05-14 16:04:06 [WARNING] [Safety] Low power level: 25.037778
+2025-05-14 16:04:06 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:06 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:06 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:06 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:06 [WARNING] [Safety] High temperature detected: 82.236433
+2025-05-14 16:04:06 [WARNING] [Safety] Low power level: 25.022726
+2025-05-14 16:04:06 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:06 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:06 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:06 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:06 [WARNING] [Safety] High temperature detected: 82.509110
+2025-05-14 16:04:06 [WARNING] [Safety] Low power level: 24.961936
+2025-05-14 16:04:06 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:06 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:06 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:06 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:06 [WARNING] [Safety] High temperature detected: 82.707651
+2025-05-14 16:04:06 [WARNING] [Safety] Low power level: 24.963234
+2025-05-14 16:04:06 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:06 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:06 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:06 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:06 [WARNING] [Safety] High temperature detected: 82.821040
+2025-05-14 16:04:06 [WARNING] [Safety] Low power level: 24.982903
+2025-05-14 16:04:07 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:07 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:07 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:07 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:07 [WARNING] [Safety] High temperature detected: 83.097553
+2025-05-14 16:04:07 [WARNING] [Safety] Low power level: 24.962513
+2025-05-14 16:04:07 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:07 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:07 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:07 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:07 [WARNING] [Safety] High temperature detected: 83.366504
+2025-05-14 16:04:07 [WARNING] [Safety] Low power level: 24.982364
+2025-05-14 16:04:07 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:07 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:07 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:07 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:07 [WARNING] [Safety] High temperature detected: 83.515218
+2025-05-14 16:04:07 [WARNING] [Safety] Low power level: 25.003609
+2025-05-14 16:04:07 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:07 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:07 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:07 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:07 [WARNING] [Safety] High temperature detected: 83.813395
+2025-05-14 16:04:07 [WARNING] [Safety] Low power level: 24.978161
+2025-05-14 16:04:07 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:07 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:07 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:07 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:07 [WARNING] [Safety] High temperature detected: 83.907626
+2025-05-14 16:04:07 [WARNING] [Safety] Low power level: 24.985709
+2025-05-14 16:04:07 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:07 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:07 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:07 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:07 [WARNING] [Safety] High temperature detected: 83.925594
+2025-05-14 16:04:07 [WARNING] [Safety] Low power level: 25.062030
+2025-05-14 16:04:07 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:07 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:07 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:07 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:07 [WARNING] [Safety] High temperature detected: 84.033358
+2025-05-14 16:04:07 [WARNING] [Safety] Low power level: 25.029494
+2025-05-14 16:04:07 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:07 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:07 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:07 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:07 [WARNING] [Safety] High temperature detected: 84.322272
+2025-05-14 16:04:07 [WARNING] [Safety] Low power level: 25.021227
+2025-05-14 16:04:07 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:07 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:07 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:07 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:07 [WARNING] [Safety] High temperature detected: 84.477162
+2025-05-14 16:04:07 [WARNING] [Safety] Low power level: 25.037207
+2025-05-14 16:04:08 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:08 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:08 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:08 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:08 [WARNING] [Safety] High temperature detected: 84.611062
+2025-05-14 16:04:08 [WARNING] [Safety] Low power level: 25.023279
+2025-05-14 16:04:08 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:08 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:08 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:08 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:08 [WARNING] [Safety] High temperature detected: 84.739129
+2025-05-14 16:04:08 [WARNING] [Safety] Low power level: 25.030823
+2025-05-14 16:04:08 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:08 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:08 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:08 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:08 [WARNING] [Safety] High temperature detected: 84.904584
+2025-05-14 16:04:08 [WARNING] [Safety] Low power level: 25.004813
+2025-05-14 16:04:08 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:08 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:08 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:08 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:08 [WARNING] [Safety] High temperature detected: 85.199821
+2025-05-14 16:04:08 [WARNING] [Safety] Low power level: 24.956737
+2025-05-14 16:04:08 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:08 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:08 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:08 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:08 [WARNING] [Safety] High temperature detected: 85.161421
+2025-05-14 16:04:08 [WARNING] [Safety] Low power level: 25.062397
+2025-05-14 16:04:08 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:08 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:08 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:08 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:08 [WARNING] [Safety] High temperature detected: 84.987935
+2025-05-14 16:04:08 [WARNING] [Safety] Low power level: 25.033286
+2025-05-14 16:04:08 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:08 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:08 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:08 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:08 [WARNING] [Safety] High temperature detected: 85.088841
+2025-05-14 16:04:08 [WARNING] [Safety] Low power level: 25.057883
+2025-05-14 16:04:08 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:08 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:08 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:08 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:08 [WARNING] [Safety] High temperature detected: 85.292681
+2025-05-14 16:04:08 [WARNING] [Safety] Low power level: 24.965862
+2025-05-14 16:04:08 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:08 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:08 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:08 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:08 [WARNING] [Safety] High temperature detected: 85.287518
+2025-05-14 16:04:08 [WARNING] [Safety] Low power level: 24.978610
+2025-05-14 16:04:09 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:09 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:09 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:09 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:09 [WARNING] [Safety] High temperature detected: 85.315593
+2025-05-14 16:04:09 [WARNING] [Safety] Low power level: 24.997283
+2025-05-14 16:04:09 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:09 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:09 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:09 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:09 [WARNING] [Safety] High temperature detected: 85.536970
+2025-05-14 16:04:09 [WARNING] [Safety] Low power level: 25.060906
+2025-05-14 16:04:09 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:09 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:09 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:09 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:09 [WARNING] [Safety] High temperature detected: 85.488491
+2025-05-14 16:04:09 [WARNING] [Safety] Low power level: 24.968473
+2025-05-14 16:04:09 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:09 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:09 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:09 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:09 [WARNING] [Safety] High temperature detected: 85.554389
+2025-05-14 16:04:09 [WARNING] [Safety] Low power level: 24.937689
+2025-05-14 16:04:09 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:09 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:09 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:09 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:09 [WARNING] [Safety] High temperature detected: 85.781139
+2025-05-14 16:04:09 [WARNING] [Safety] Low power level: 25.007243
+2025-05-14 16:04:09 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:09 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:09 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:09 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:09 [WARNING] [Safety] High temperature detected: 85.762165
+2025-05-14 16:04:09 [WARNING] [Safety] Low power level: 24.942525
+2025-05-14 16:04:09 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:09 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:09 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:09 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:09 [WARNING] [Safety] High temperature detected: 85.936017
+2025-05-14 16:04:09 [WARNING] [Safety] Low power level: 25.036620
+2025-05-14 16:04:09 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:09 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:09 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:09 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:09 [WARNING] [Safety] High temperature detected: 86.148039
+2025-05-14 16:04:09 [WARNING] [Safety] Low power level: 25.076203
+2025-05-14 16:04:09 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:09 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:09 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:09 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:09 [WARNING] [Safety] High temperature detected: 86.029220
+2025-05-14 16:04:09 [WARNING] [Safety] Low power level: 25.023568
+2025-05-14 16:04:10 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:10 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:10 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:10 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:10 [WARNING] [Safety] High temperature detected: 85.981170
+2025-05-14 16:04:10 [WARNING] [Safety] Low power level: 24.997421
+2025-05-14 16:04:10 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:10 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:10 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:10 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:10 [WARNING] [Safety] High temperature detected: 86.136104
+2025-05-14 16:04:10 [WARNING] [Safety] Low power level: 25.010160
+2025-05-14 16:04:10 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:10 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:10 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:10 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:10 [WARNING] [Safety] High temperature detected: 86.046161
+2025-05-14 16:04:10 [WARNING] [Safety] Low power level: 25.014883
+2025-05-14 16:04:10 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:10 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:10 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:10 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:10 [WARNING] [Safety] High temperature detected: 86.148735
+2025-05-14 16:04:10 [WARNING] [Safety] Low power level: 25.011320
+2025-05-14 16:04:10 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:10 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:10 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:10 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:10 [WARNING] [Safety] High temperature detected: 86.124520
+2025-05-14 16:04:10 [WARNING] [Safety] Low power level: 24.971010
+2025-05-14 16:04:10 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:10 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:10 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:10 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:10 [WARNING] [Safety] High temperature detected: 85.949744
+2025-05-14 16:04:10 [WARNING] [Safety] Low power level: 25.004773
+2025-05-14 16:04:10 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:10 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:10 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:10 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:10 [WARNING] [Safety] High temperature detected: 86.010966
+2025-05-14 16:04:10 [WARNING] [Safety] Low power level: 24.969418
+2025-05-14 16:04:10 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:10 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:10 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:10 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:10 [WARNING] [Safety] High temperature detected: 86.154511
+2025-05-14 16:04:10 [WARNING] [Safety] Low power level: 24.992552
+2025-05-14 16:04:10 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:10 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:10 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:10 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:10 [WARNING] [Safety] High temperature detected: 86.346974
+2025-05-14 16:04:10 [WARNING] [Safety] Low power level: 25.062056
+2025-05-14 16:04:10 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:10 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:10 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:10 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:10 [WARNING] [Safety] High temperature detected: 86.610539
+2025-05-14 16:04:10 [WARNING] [Safety] Low power level: 25.037503
+2025-05-14 16:04:11 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:11 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:11 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:11 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:11 [WARNING] [Safety] High temperature detected: 86.834335
+2025-05-14 16:04:11 [WARNING] [Safety] Low power level: 25.037149
+2025-05-14 16:04:11 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:11 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:11 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:11 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:11 [WARNING] [Safety] High temperature detected: 86.825457
+2025-05-14 16:04:11 [WARNING] [Safety] Low power level: 25.087689
+2025-05-14 16:04:11 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:11 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:11 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:11 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:11 [WARNING] [Safety] High temperature detected: 87.087143
+2025-05-14 16:04:11 [WARNING] [Safety] Low power level: 24.963659
+2025-05-14 16:04:11 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:11 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:11 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:11 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:11 [WARNING] [Safety] High temperature detected: 87.090684
+2025-05-14 16:04:11 [WARNING] [Safety] Low power level: 24.984170
+2025-05-14 16:04:11 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:11 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:11 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:11 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:11 [WARNING] [Safety] High temperature detected: 86.906193
+2025-05-14 16:04:11 [WARNING] [Safety] Low power level: 25.017961
+2025-05-14 16:04:11 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:11 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:11 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:11 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:11 [WARNING] [Safety] High temperature detected: 86.877449
+2025-05-14 16:04:11 [WARNING] [Safety] Low power level: 24.981314
+2025-05-14 16:04:11 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:11 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:11 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:11 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:11 [WARNING] [Safety] High temperature detected: 86.875965
+2025-05-14 16:04:11 [WARNING] [Safety] Low power level: 25.048580
+2025-05-14 16:04:11 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:11 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:11 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:11 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:11 [WARNING] [Safety] High temperature detected: 87.080751
+2025-05-14 16:04:11 [WARNING] [Safety] Low power level: 25.012249
+2025-05-14 16:04:11 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:11 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:11 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:11 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:11 [WARNING] [Safety] High temperature detected: 87.085280
+2025-05-14 16:04:11 [WARNING] [Safety] Low power level: 25.002508
+2025-05-14 16:04:12 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:12 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:12 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:12 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:12 [WARNING] [Safety] High temperature detected: 87.340794
+2025-05-14 16:04:12 [WARNING] [Safety] Low power level: 24.937911
+2025-05-14 16:04:12 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:12 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:12 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:12 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:12 [WARNING] [Safety] High temperature detected: 87.230556
+2025-05-14 16:04:12 [WARNING] [Safety] Low power level: 24.971162
+2025-05-14 16:04:12 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:12 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:12 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:12 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:12 [WARNING] [Safety] High temperature detected: 87.378564
+2025-05-14 16:04:12 [WARNING] [Safety] Low power level: 24.981448
+2025-05-14 16:04:12 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:12 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:12 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:12 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:12 [WARNING] [Safety] High temperature detected: 87.651411
+2025-05-14 16:04:12 [WARNING] [Safety] Low power level: 25.026425
+2025-05-14 16:04:12 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:12 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:12 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:12 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:12 [WARNING] [Safety] High temperature detected: 87.735919
+2025-05-14 16:04:12 [WARNING] [Safety] Low power level: 24.981050
+2025-05-14 16:04:12 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:12 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:12 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:12 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:12 [WARNING] [Safety] High temperature detected: 87.581795
+2025-05-14 16:04:12 [WARNING] [Safety] Low power level: 25.009160
+2025-05-14 16:04:12 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:12 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:12 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:12 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:12 [WARNING] [Safety] High temperature detected: 87.784044
+2025-05-14 16:04:12 [WARNING] [Safety] Low power level: 24.955615
+2025-05-14 16:04:12 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:12 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:12 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:12 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:12 [WARNING] [Safety] High temperature detected: 88.038945
+2025-05-14 16:04:12 [WARNING] [Safety] Low power level: 25.015892
+2025-05-14 16:04:12 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:12 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:12 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:12 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:12 [WARNING] [Safety] High temperature detected: 88.144997
+2025-05-14 16:04:12 [WARNING] [Safety] Low power level: 25.026215
+2025-05-14 16:04:13 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:13 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:13 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:13 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:13 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:13 [WARNING] [Safety] High temperature detected: 88.354031
+2025-05-14 16:04:13 [WARNING] [Safety] Low power level: 24.977198
+2025-05-14 16:04:13 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:13 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:13 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:13 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:13 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:13 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:13 [WARNING] [Safety] High temperature detected: 88.246242
+2025-05-14 16:04:13 [WARNING] [Safety] Low power level: 25.012146
+2025-05-14 16:04:13 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:13 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:13 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:13 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:13 [WARNING] [Safety] High temperature detected: 88.250305
+2025-05-14 16:04:13 [WARNING] [Safety] Low power level: 24.949964
+2025-05-14 16:04:13 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:13 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:13 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:13 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:13 [WARNING] [Safety] High temperature detected: 88.143455
+2025-05-14 16:04:13 [WARNING] [Safety] Low power level: 24.991423
+2025-05-14 16:04:13 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:13 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:13 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:13 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:13 [WARNING] [Safety] High temperature detected: 88.385278
+2025-05-14 16:04:13 [WARNING] [Safety] Low power level: 25.000763
+2025-05-14 16:04:13 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:13 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:13 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:13 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:13 [WARNING] [Safety] High temperature detected: 88.190937
+2025-05-14 16:04:13 [WARNING] [Safety] Low power level: 24.978225
+2025-05-14 16:04:13 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:13 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:13 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:13 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:13 [WARNING] [Safety] High temperature detected: 88.037014
+2025-05-14 16:04:13 [WARNING] [Safety] Low power level: 25.032266
+2025-05-14 16:04:13 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:13 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:13 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:13 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:13 [WARNING] [Safety] High temperature detected: 88.224811
+2025-05-14 16:04:13 [WARNING] [Safety] Low power level: 25.029757
+2025-05-14 16:04:13 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:13 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:13 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:13 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:13 [WARNING] [Safety] High temperature detected: 88.345122
+2025-05-14 16:04:13 [WARNING] [Safety] Low power level: 24.999490
+2025-05-14 16:04:14 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:14 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:14 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:14 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:14 [WARNING] [Safety] High temperature detected: 88.270333
+2025-05-14 16:04:14 [WARNING] [Safety] Low power level: 25.011620
+2025-05-14 16:04:14 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:14 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:14 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:14 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:14 [WARNING] [Safety] High temperature detected: 88.363290
+2025-05-14 16:04:14 [WARNING] [Safety] Low power level: 24.970349
+2025-05-14 16:04:14 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:14 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:14 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:14 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:14 [WARNING] [Safety] High temperature detected: 88.255945
+2025-05-14 16:04:14 [WARNING] [Safety] Low power level: 24.947892
+2025-05-14 16:04:14 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:14 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:14 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:14 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:14 [WARNING] [Safety] High temperature detected: 88.417784
+2025-05-14 16:04:14 [WARNING] [Safety] Low power level: 25.038961
+2025-05-14 16:04:14 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:14 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:14 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:14 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:14 [WARNING] [Safety] High temperature detected: 88.294587
+2025-05-14 16:04:14 [WARNING] [Safety] Low power level: 25.030833
+2025-05-14 16:04:14 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:14 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:14 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:14 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:14 [WARNING] [Safety] High temperature detected: 88.198106
+2025-05-14 16:04:14 [WARNING] [Safety] Low power level: 25.070640
+2025-05-14 16:04:14 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:14 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:14 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:14 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:14 [WARNING] [Safety] High temperature detected: 88.238591
+2025-05-14 16:04:14 [WARNING] [Safety] Low power level: 25.034216
+2025-05-14 16:04:14 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:14 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:14 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:14 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:14 [WARNING] [Safety] High temperature detected: 88.338866
+2025-05-14 16:04:14 [WARNING] [Safety] Low power level: 25.010914
+2025-05-14 16:04:14 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:14 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:14 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:14 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:14 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:14 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:14 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:14 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:14 [WARNING] [Safety] High temperature detected: 88.605783
+2025-05-14 16:04:14 [WARNING] [Safety] Low power level: 24.954087
+2025-05-14 16:04:14 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:14 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:15 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:15 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:15 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:15 [WARNING] [Safety] High temperature detected: 88.848924
+2025-05-14 16:04:15 [WARNING] [Safety] Low power level: 25.038535
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:15 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:15 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:15 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:15 [WARNING] [Safety] High temperature detected: 88.855908
+2025-05-14 16:04:15 [WARNING] [Safety] Low power level: 25.077917
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:15 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:15 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:15 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:15 [WARNING] [Safety] High temperature detected: 88.818436
+2025-05-14 16:04:15 [WARNING] [Safety] Low power level: 25.059065
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:15 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:15 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:15 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:15 [WARNING] [Safety] High temperature detected: 88.945344
+2025-05-14 16:04:15 [WARNING] [Safety] Low power level: 25.029218
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:15 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:15 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:15 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:15 [WARNING] [Safety] High temperature detected: 89.055104
+2025-05-14 16:04:15 [WARNING] [Safety] Low power level: 24.993548
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:15 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:15 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:15 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:15 [WARNING] [Safety] High temperature detected: 89.065441
+2025-05-14 16:04:15 [WARNING] [Safety] Low power level: 24.990110
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:15 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:15 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:15 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:15 [WARNING] [Safety] High temperature detected: 88.971963
+2025-05-14 16:04:15 [WARNING] [Safety] Low power level: 25.057647
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:15 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:15 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:15 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:15 [WARNING] [Safety] High temperature detected: 88.899120
+2025-05-14 16:04:15 [WARNING] [Safety] Low power level: 25.039044
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:15 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:15 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:15 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:15 [WARNING] [Safety] High temperature detected: 88.868792
+2025-05-14 16:04:15 [WARNING] [Safety] Low power level: 25.024291
+2025-05-14 16:04:15 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:15 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:15 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:15 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:15 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:15 [WARNING] [Safety] High temperature detected: 88.973541
+2025-05-14 16:04:15 [WARNING] [Safety] Low power level: 25.039392
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:16 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:16 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:16 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:16 [WARNING] [Safety] High temperature detected: 88.987240
+2025-05-14 16:04:16 [WARNING] [Safety] Low power level: 25.072285
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:16 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:16 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:16 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:16 [WARNING] [Safety] High temperature detected: 89.206129
+2025-05-14 16:04:16 [WARNING] [Safety] Low power level: 25.075177
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:16 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:16 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:16 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:16 [WARNING] [Safety] High temperature detected: 89.262244
+2025-05-14 16:04:16 [WARNING] [Safety] Low power level: 24.995913
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:16 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:16 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:16 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:16 [WARNING] [Safety] High temperature detected: 89.163276
+2025-05-14 16:04:16 [WARNING] [Safety] Low power level: 25.030035
+2025-05-14 16:04:16 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:16 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:16 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:16 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:16 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:16 [WARNING] [Safety] High temperature detected: 88.971615
+2025-05-14 16:04:16 [WARNING] [Safety] Low power level: 24.984493
+2025-05-14 16:04:16 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:16 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:16 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:16 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:16 [WARNING] [Safety] High temperature detected: 89.071150
+2025-05-14 16:04:16 [WARNING] [Safety] Low power level: 25.019479
+2025-05-14 16:04:16 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:16 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:16 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:16 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:16 [WARNING] [Safety] High temperature detected: 89.013999
+2025-05-14 16:04:16 [WARNING] [Safety] Low power level: 25.021391
+2025-05-14 16:04:16 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:16 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:16 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:16 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:16 [WARNING] [Safety] High temperature detected: 88.986524
+2025-05-14 16:04:16 [WARNING] [Safety] Low power level: 24.984366
+2025-05-14 16:04:16 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:16 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:16 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:16 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:16 [WARNING] [Safety] High temperature detected: 89.285932
+2025-05-14 16:04:16 [WARNING] [Safety] Low power level: 25.036000
+2025-05-14 16:04:17 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:17 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:17 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:17 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:17 [WARNING] [Safety] High temperature detected: 89.431612
+2025-05-14 16:04:17 [WARNING] [Safety] Low power level: 25.011037
+2025-05-14 16:04:17 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:17 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:17 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:17 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:17 [WARNING] [Safety] High temperature detected: 89.702042
+2025-05-14 16:04:17 [WARNING] [Safety] Low power level: 25.016374
+2025-05-14 16:04:17 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:17 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:17 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:17 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:17 [WARNING] [Safety] High temperature detected: 89.622338
+2025-05-14 16:04:17 [WARNING] [Safety] Low power level: 24.981481
+2025-05-14 16:04:17 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:17 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:17 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:17 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:17 [WARNING] [Safety] High temperature detected: 89.722266
+2025-05-14 16:04:17 [WARNING] [Safety] Low power level: 25.052737
+2025-05-14 16:04:17 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:17 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:17 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:17 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:17 [WARNING] [Safety] High temperature detected: 89.604451
+2025-05-14 16:04:17 [WARNING] [Safety] Low power level: 25.006177
+2025-05-14 16:04:17 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:17 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:17 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:17 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:17 [WARNING] [Safety] High temperature detected: 89.574198
+2025-05-14 16:04:17 [WARNING] [Safety] Low power level: 24.929704
+2025-05-14 16:04:17 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:17 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:17 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:17 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:17 [WARNING] [Safety] High temperature detected: 89.650865
+2025-05-14 16:04:17 [WARNING] [Safety] Low power level: 24.954361
+2025-05-14 16:04:17 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:17 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:17 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:17 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:17 [WARNING] [Safety] High temperature detected: 89.618832
+2025-05-14 16:04:17 [WARNING] [Safety] Low power level: 25.012104
+2025-05-14 16:04:17 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:17 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:17 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:17 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:17 [WARNING] [Safety] High temperature detected: 89.433266
+2025-05-14 16:04:17 [WARNING] [Safety] Low power level: 25.024701
+2025-05-14 16:04:18 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:18 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:18 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:18 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:18 [WARNING] [Safety] High temperature detected: 89.639433
+2025-05-14 16:04:18 [WARNING] [Safety] Low power level: 25.043136
+2025-05-14 16:04:18 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:18 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:18 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:18 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:18 [WARNING] [Safety] High temperature detected: 89.566322
+2025-05-14 16:04:18 [WARNING] [Safety] Low power level: 24.967288
+2025-05-14 16:04:18 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:18 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:18 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:18 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:18 [WARNING] [Safety] High temperature detected: 89.634978
+2025-05-14 16:04:18 [WARNING] [Safety] Low power level: 24.969638
+2025-05-14 16:04:18 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:18 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:18 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:18 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:18 [WARNING] [Safety] High temperature detected: 89.915737
+2025-05-14 16:04:18 [WARNING] [Safety] Low power level: 25.010853
+2025-05-14 16:04:18 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:18 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:18 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:18 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:18 [WARNING] [Safety] High temperature detected: 90.020239
+2025-05-14 16:04:18 [WARNING] [Safety] Low power level: 24.939170
+2025-05-14 16:04:18 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:18 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:18 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:18 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:18 [WARNING] [Safety] High temperature detected: 89.939448
+2025-05-14 16:04:18 [WARNING] [Safety] Low power level: 24.966023
+2025-05-14 16:04:18 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:18 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:18 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:18 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:18 [WARNING] [Safety] High temperature detected: 90.178295
+2025-05-14 16:04:18 [WARNING] [Safety] Low power level: 24.915167
+2025-05-14 16:04:18 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:18 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:18 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:18 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:18 [WARNING] [Safety] High temperature detected: 90.011792
+2025-05-14 16:04:18 [WARNING] [Safety] Low power level: 25.054449
+2025-05-14 16:04:18 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:18 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:18 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:18 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:18 [WARNING] [Safety] High temperature detected: 90.103491
+2025-05-14 16:04:18 [WARNING] [Safety] Low power level: 24.957434
+2025-05-14 16:04:19 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:19 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:19 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:19 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:19 [WARNING] [Safety] High temperature detected: 90.184176
+2025-05-14 16:04:19 [WARNING] [Safety] Low power level: 25.014128
+2025-05-14 16:04:19 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:19 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:19 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:19 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:19 [WARNING] [Safety] High temperature detected: 90.372516
+2025-05-14 16:04:19 [WARNING] [Safety] Low power level: 25.002078
+2025-05-14 16:04:19 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:19 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:19 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:19 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:19 [WARNING] [Safety] High temperature detected: 90.637583
+2025-05-14 16:04:19 [WARNING] [Safety] Low power level: 24.982626
+2025-05-14 16:04:19 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:19 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:19 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:19 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:19 [WARNING] [Safety] High temperature detected: 90.782320
+2025-05-14 16:04:19 [WARNING] [Safety] Low power level: 25.048840
+2025-05-14 16:04:19 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:19 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:19 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:19 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:19 [WARNING] [Safety] High temperature detected: 91.017000
+2025-05-14 16:04:19 [WARNING] [Safety] Low power level: 24.984839
+2025-05-14 16:04:19 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:19 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:19 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:19 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:19 [WARNING] [Safety] High temperature detected: 91.044345
+2025-05-14 16:04:19 [WARNING] [Safety] Low power level: 25.003995
+2025-05-14 16:04:19 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:19 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:19 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:19 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:19 [WARNING] [Safety] High temperature detected: 91.291615
+2025-05-14 16:04:19 [WARNING] [Safety] Low power level: 24.910913
+2025-05-14 16:04:19 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:19 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:19 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:19 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:19 [WARNING] [Safety] High temperature detected: 91.453598
+2025-05-14 16:04:19 [WARNING] [Safety] Low power level: 25.003495
+2025-05-14 16:04:19 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:19 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:19 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:19 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:19 [WARNING] [Safety] High temperature detected: 91.601352
+2025-05-14 16:04:19 [WARNING] [Safety] Low power level: 24.914655
+2025-05-14 16:04:20 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:20 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:20 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:20 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:20 [WARNING] [Safety] High temperature detected: 91.828201
+2025-05-14 16:04:20 [WARNING] [Safety] Low power level: 25.014483
+2025-05-14 16:04:20 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:20 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:20 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:20 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:20 [WARNING] [Safety] High temperature detected: 92.017311
+2025-05-14 16:04:20 [WARNING] [Safety] Low power level: 24.997132
+2025-05-14 16:04:20 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:20 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:20 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:20 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:20 [WARNING] [Safety] High temperature detected: 92.080955
+2025-05-14 16:04:20 [WARNING] [Safety] Low power level: 25.032788
+2025-05-14 16:04:20 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:20 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:20 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:20 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:20 [WARNING] [Safety] High temperature detected: 92.210630
+2025-05-14 16:04:20 [WARNING] [Safety] Low power level: 24.987550
+2025-05-14 16:04:20 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:20 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:20 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:20 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:20 [WARNING] [Safety] High temperature detected: 92.338832
+2025-05-14 16:04:20 [WARNING] [Safety] Low power level: 24.994667
+2025-05-14 16:04:20 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:20 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:20 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:20 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:20 [WARNING] [Safety] High temperature detected: 92.438642
+2025-05-14 16:04:20 [WARNING] [Safety] Low power level: 24.991500
+2025-05-14 16:04:20 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:20 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:20 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:20 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:20 [WARNING] [Safety] High temperature detected: 92.310911
+2025-05-14 16:04:20 [WARNING] [Safety] Low power level: 25.071760
+2025-05-14 16:04:20 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:20 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:20 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:20 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:20 [WARNING] [Safety] High temperature detected: 92.390340
+2025-05-14 16:04:20 [WARNING] [Safety] Low power level: 25.015222
+2025-05-14 16:04:20 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:20 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:20 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:20 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:20 [WARNING] [Safety] High temperature detected: 92.435510
+2025-05-14 16:04:20 [WARNING] [Safety] Low power level: 25.015743
+2025-05-14 16:04:20 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:20 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:20 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:20 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:20 [WARNING] [Safety] High temperature detected: 92.710180
+2025-05-14 16:04:20 [WARNING] [Safety] Low power level: 24.989485
+2025-05-14 16:04:21 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:21 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:21 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:21 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:21 [WARNING] [Safety] High temperature detected: 92.680021
+2025-05-14 16:04:21 [WARNING] [Safety] Low power level: 24.974722
+2025-05-14 16:04:21 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:21 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:21 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:21 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:21 [WARNING] [Safety] High temperature detected: 92.555667
+2025-05-14 16:04:21 [WARNING] [Safety] Low power level: 25.025894
+2025-05-14 16:04:21 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:21 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:21 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:21 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:21 [WARNING] [Safety] High temperature detected: 92.388212
+2025-05-14 16:04:21 [WARNING] [Safety] Low power level: 25.060469
+2025-05-14 16:04:21 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:21 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:21 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:21 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:21 [WARNING] [Safety] High temperature detected: 92.235485
+2025-05-14 16:04:21 [WARNING] [Safety] Low power level: 25.007607
+2025-05-14 16:04:21 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:21 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:21 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:21 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:21 [WARNING] [Safety] High temperature detected: 92.360805
+2025-05-14 16:04:21 [WARNING] [Safety] Low power level: 25.015383
+2025-05-14 16:04:21 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:21 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:21 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:21 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:21 [WARNING] [Safety] High temperature detected: 92.598830
+2025-05-14 16:04:21 [WARNING] [Safety] Low power level: 24.991383
+2025-05-14 16:04:21 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:21 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:21 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:21 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:21 [WARNING] [Safety] High temperature detected: 92.895224
+2025-05-14 16:04:21 [WARNING] [Safety] Low power level: 25.045076
+2025-05-14 16:04:21 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:21 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:21 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:21 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:21 [WARNING] [Safety] High temperature detected: 92.948602
+2025-05-14 16:04:21 [WARNING] [Safety] Low power level: 24.996952
+2025-05-14 16:04:21 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:21 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:21 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:21 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:21 [WARNING] [Safety] High temperature detected: 93.225634
+2025-05-14 16:04:21 [WARNING] [Safety] Low power level: 25.033266
+2025-05-14 16:04:22 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:22 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:22 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:22 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:22 [WARNING] [Safety] High temperature detected: 93.369793
+2025-05-14 16:04:22 [WARNING] [Safety] Low power level: 25.016358
+2025-05-14 16:04:22 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:22 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:22 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:22 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:22 [WARNING] [Safety] High temperature detected: 93.631385
+2025-05-14 16:04:22 [WARNING] [Safety] Low power level: 25.003236
+2025-05-14 16:04:22 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:22 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:22 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:22 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:22 [WARNING] [Safety] High temperature detected: 93.431806
+2025-05-14 16:04:22 [WARNING] [Safety] Low power level: 24.962203
+2025-05-14 16:04:22 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:22 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:22 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:22 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:22 [WARNING] [Safety] High temperature detected: 93.456778
+2025-05-14 16:04:22 [WARNING] [Safety] Low power level: 24.954580
+2025-05-14 16:04:22 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:22 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:22 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:22 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:22 [WARNING] [Safety] High temperature detected: 93.394690
+2025-05-14 16:04:22 [WARNING] [Safety] Low power level: 25.059130
+2025-05-14 16:04:22 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:22 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:22 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:22 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:22 [WARNING] [Safety] High temperature detected: 93.540001
+2025-05-14 16:04:22 [WARNING] [Safety] Low power level: 25.004171
+2025-05-14 16:04:22 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:22 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:22 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:22 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:22 [WARNING] [Safety] High temperature detected: 93.452694
+2025-05-14 16:04:22 [WARNING] [Safety] Low power level: 24.939099
+2025-05-14 16:04:22 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:22 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:22 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:22 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:22 [WARNING] [Safety] High temperature detected: 93.661275
+2025-05-14 16:04:22 [WARNING] [Safety] Low power level: 25.022908
+2025-05-14 16:04:22 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:22 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:22 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:22 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:22 [WARNING] [Safety] High temperature detected: 93.713775
+2025-05-14 16:04:22 [WARNING] [Safety] Low power level: 25.025024
+2025-05-14 16:04:23 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:23 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:23 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:23 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:23 [WARNING] [Safety] High temperature detected: 93.819987
+2025-05-14 16:04:23 [WARNING] [Safety] Low power level: 24.965401
+2025-05-14 16:04:23 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:23 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:23 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:23 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:23 [WARNING] [Safety] High temperature detected: 93.687184
+2025-05-14 16:04:23 [WARNING] [Safety] Low power level: 24.923735
+2025-05-14 16:04:23 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:23 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:23 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:23 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:23 [WARNING] [Safety] High temperature detected: 93.769811
+2025-05-14 16:04:23 [WARNING] [Safety] Low power level: 24.912093
+2025-05-14 16:04:23 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:23 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:23 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:23 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:23 [WARNING] [Safety] High temperature detected: 93.686447
+2025-05-14 16:04:23 [WARNING] [Safety] Low power level: 24.999216
+2025-05-14 16:04:23 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:23 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:23 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:23 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:23 [WARNING] [Safety] High temperature detected: 93.765233
+2025-05-14 16:04:23 [WARNING] [Safety] Low power level: 25.088830
+2025-05-14 16:04:23 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:23 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:23 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:23 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:23 [WARNING] [Safety] High temperature detected: 93.669655
+2025-05-14 16:04:23 [WARNING] [Safety] Low power level: 24.933113
+2025-05-14 16:04:23 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:23 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:23 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:23 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:23 [WARNING] [Safety] High temperature detected: 93.524683
+2025-05-14 16:04:23 [WARNING] [Safety] Low power level: 25.009763
+2025-05-14 16:04:23 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:23 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:23 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:23 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:23 [WARNING] [Safety] High temperature detected: 93.338138
+2025-05-14 16:04:23 [WARNING] [Safety] Low power level: 24.975579
+2025-05-14 16:04:23 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:23 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:23 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:23 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:23 [WARNING] [Safety] High temperature detected: 93.165829
+2025-05-14 16:04:23 [WARNING] [Safety] Low power level: 24.987188
+2025-05-14 16:04:24 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:24 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:24 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:24 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:24 [WARNING] [Safety] High temperature detected: 93.078711
+2025-05-14 16:04:24 [WARNING] [Safety] Low power level: 25.066562
+2025-05-14 16:04:24 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:24 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:24 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:24 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:24 [WARNING] [Safety] High temperature detected: 93.233729
+2025-05-14 16:04:24 [WARNING] [Safety] Low power level: 25.065242
+2025-05-14 16:04:24 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:24 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:24 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:24 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:24 [WARNING] [Safety] High temperature detected: 93.420181
+2025-05-14 16:04:24 [WARNING] [Safety] Low power level: 25.055470
+2025-05-14 16:04:24 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:24 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:24 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:24 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:24 [WARNING] [Safety] High temperature detected: 93.244564
+2025-05-14 16:04:24 [WARNING] [Safety] Low power level: 24.996878
+2025-05-14 16:04:24 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:24 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:24 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:24 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:24 [WARNING] [Safety] High temperature detected: 93.091772
+2025-05-14 16:04:24 [WARNING] [Safety] Low power level: 25.081390
+2025-05-14 16:04:24 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:24 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:24 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:24 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:24 [WARNING] [Safety] High temperature detected: 92.917276
+2025-05-14 16:04:24 [WARNING] [Safety] Low power level: 24.992411
+2025-05-14 16:04:24 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:24 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:24 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:24 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:24 [WARNING] [Safety] High temperature detected: 93.163675
+2025-05-14 16:04:24 [WARNING] [Safety] Low power level: 25.050158
+2025-05-14 16:04:24 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:24 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:24 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:24 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:24 [WARNING] [Safety] High temperature detected: 93.353228
+2025-05-14 16:04:24 [WARNING] [Safety] Low power level: 25.018557
+2025-05-14 16:04:24 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:24 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:24 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:24 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:24 [WARNING] [Safety] High temperature detected: 93.423384
+2025-05-14 16:04:24 [WARNING] [Safety] Low power level: 25.045751
+2025-05-14 16:04:25 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:25 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:25 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:25 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:25 [WARNING] [Safety] High temperature detected: 93.501981
+2025-05-14 16:04:25 [WARNING] [Safety] Low power level: 24.957230
+2025-05-14 16:04:25 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:25 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:25 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:25 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:25 [WARNING] [Safety] High temperature detected: 93.460089
+2025-05-14 16:04:25 [WARNING] [Safety] Low power level: 25.079573
+2025-05-14 16:04:25 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:25 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:25 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:25 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:25 [WARNING] [Safety] High temperature detected: 93.486174
+2025-05-14 16:04:25 [WARNING] [Safety] Low power level: 25.000572
+2025-05-14 16:04:25 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:25 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:25 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:25 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:25 [WARNING] [Safety] High temperature detected: 93.348833
+2025-05-14 16:04:25 [WARNING] [Safety] Low power level: 24.996936
+2025-05-14 16:04:25 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:25 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:25 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:25 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:25 [WARNING] [Safety] High temperature detected: 93.563735
+2025-05-14 16:04:25 [WARNING] [Safety] Low power level: 25.059237
+2025-05-14 16:04:25 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:25 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:25 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:25 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:25 [WARNING] [Safety] High temperature detected: 93.689369
+2025-05-14 16:04:25 [WARNING] [Safety] Low power level: 25.027436
+2025-05-14 16:04:25 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:25 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:25 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:25 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:25 [WARNING] [Safety] High temperature detected: 93.902257
+2025-05-14 16:04:25 [WARNING] [Safety] Low power level: 25.011688
+2025-05-14 16:04:25 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:25 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:25 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:25 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:25 [WARNING] [Safety] High temperature detected: 93.916643
+2025-05-14 16:04:25 [WARNING] [Safety] Low power level: 25.018063
+2025-05-14 16:04:25 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:25 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:25 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:25 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:25 [WARNING] [Safety] High temperature detected: 94.092692
+2025-05-14 16:04:25 [WARNING] [Safety] Low power level: 24.976957
+2025-05-14 16:04:26 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:26 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:26 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:26 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:26 [WARNING] [Safety] High temperature detected: 94.146857
+2025-05-14 16:04:26 [WARNING] [Safety] Low power level: 24.989394
+2025-05-14 16:04:26 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:26 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:26 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:26 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:26 [WARNING] [Safety] High temperature detected: 94.144514
+2025-05-14 16:04:26 [WARNING] [Safety] Low power level: 24.994990
+2025-05-14 16:04:26 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:26 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:26 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:26 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:26 [WARNING] [Safety] High temperature detected: 94.310012
+2025-05-14 16:04:26 [WARNING] [Safety] Low power level: 25.030285
+2025-05-14 16:04:26 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:26 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:26 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:26 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:26 [WARNING] [Safety] High temperature detected: 94.607266
+2025-05-14 16:04:26 [WARNING] [Safety] Low power level: 25.010268
+2025-05-14 16:04:26 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:26 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:26 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:26 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:26 [WARNING] [Safety] High temperature detected: 94.438457
+2025-05-14 16:04:26 [WARNING] [Safety] Low power level: 24.958397
+2025-05-14 16:04:26 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:26 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:26 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:26 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:26 [WARNING] [Safety] High temperature detected: 94.400053
+2025-05-14 16:04:26 [WARNING] [Safety] Low power level: 25.020582
+2025-05-14 16:04:26 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:26 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:26 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:26 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:26 [WARNING] [Safety] High temperature detected: 94.275996
+2025-05-14 16:04:26 [WARNING] [Safety] Low power level: 25.022252
+2025-05-14 16:04:26 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:26 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:26 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:26 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:26 [WARNING] [Safety] High temperature detected: 94.166143
+2025-05-14 16:04:26 [WARNING] [Safety] Low power level: 25.032733
+2025-05-14 16:04:26 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:26 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:26 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:26 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:26 [WARNING] [Safety] High temperature detected: 94.127611
+2025-05-14 16:04:26 [WARNING] [Safety] Low power level: 25.071353
+2025-05-14 16:04:26 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:26 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:26 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:26 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:26 [WARNING] [Safety] High temperature detected: 94.240395
+2025-05-14 16:04:26 [WARNING] [Safety] Low power level: 24.984871
+2025-05-14 16:04:27 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:27 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:27 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:27 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:27 [WARNING] [Safety] High temperature detected: 94.188843
+2025-05-14 16:04:27 [WARNING] [Safety] Low power level: 24.993294
+2025-05-14 16:04:27 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:27 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:27 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:27 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:27 [WARNING] [Safety] High temperature detected: 94.424951
+2025-05-14 16:04:27 [WARNING] [Safety] Low power level: 25.070819
+2025-05-14 16:04:27 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:27 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:27 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:27 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:27 [WARNING] [Safety] High temperature detected: 94.620262
+2025-05-14 16:04:27 [WARNING] [Safety] Low power level: 25.021717
+2025-05-14 16:04:27 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:27 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:27 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:27 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:27 [WARNING] [Safety] High temperature detected: 94.744363
+2025-05-14 16:04:27 [WARNING] [Safety] Low power level: 25.045943
+2025-05-14 16:04:27 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:27 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:27 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:27 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:27 [WARNING] [Safety] High temperature detected: 94.776562
+2025-05-14 16:04:27 [WARNING] [Safety] Low power level: 24.974278
+2025-05-14 16:04:27 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:27 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:27 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:27 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:27 [WARNING] [Safety] High temperature detected: 94.696131
+2025-05-14 16:04:27 [WARNING] [Safety] Low power level: 25.018449
+2025-05-14 16:04:27 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:27 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:27 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:27 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:27 [WARNING] [Safety] High temperature detected: 94.601833
+2025-05-14 16:04:27 [WARNING] [Safety] Low power level: 25.035659
+2025-05-14 16:04:27 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:27 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:27 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:27 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:27 [WARNING] [Safety] High temperature detected: 94.800760
+2025-05-14 16:04:27 [WARNING] [Safety] Low power level: 24.992551
+2025-05-14 16:04:27 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:27 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:27 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:27 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:27 [WARNING] [Safety] High temperature detected: 94.640274
+2025-05-14 16:04:27 [WARNING] [Safety] Low power level: 25.076911
+2025-05-14 16:04:28 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:28 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:28 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:28 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:28 [WARNING] [Safety] High temperature detected: 94.758557
+2025-05-14 16:04:28 [WARNING] [Safety] Low power level: 25.048986
+2025-05-14 16:04:28 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:28 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:28 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:28 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:28 [WARNING] [Safety] High temperature detected: 94.729287
+2025-05-14 16:04:28 [WARNING] [Safety] Low power level: 24.991035
+2025-05-14 16:04:28 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:28 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:28 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:28 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:28 [WARNING] [Safety] High temperature detected: 94.649579
+2025-05-14 16:04:28 [WARNING] [Safety] Low power level: 25.016423
+2025-05-14 16:04:28 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:28 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:28 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:28 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:28 [WARNING] [Safety] High temperature detected: 94.766595
+2025-05-14 16:04:28 [WARNING] [Safety] Low power level: 24.967407
+2025-05-14 16:04:28 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:28 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:28 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:28 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:28 [WARNING] [Safety] High temperature detected: 94.786320
+2025-05-14 16:04:28 [WARNING] [Safety] Low power level: 24.990118
+2025-05-14 16:04:28 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:28 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:28 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:28 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:28 [WARNING] [Safety] High temperature detected: 94.682783
+2025-05-14 16:04:28 [WARNING] [Safety] Low power level: 25.047201
+2025-05-14 16:04:28 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:28 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:28 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:28 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:28 [WARNING] [Safety] High temperature detected: 94.543398
+2025-05-14 16:04:28 [WARNING] [Safety] Low power level: 24.982537
+2025-05-14 16:04:28 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:28 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:28 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:28 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:28 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:28 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:28 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:28 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:28 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:28 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:28 [WARNING] [Safety] High temperature detected: 94.404723
+2025-05-14 16:04:28 [WARNING] [Safety] Low power level: 24.974460
+2025-05-14 16:04:28 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:28 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:28 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:28 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:28 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:28 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:28 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:28 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:28 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:28 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:28 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:28 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:28 [WARNING] [Safety] High temperature detected: 94.249546
+2025-05-14 16:04:28 [WARNING] [Safety] Low power level: 24.955315
+2025-05-14 16:04:28 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:28 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:29 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:29 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:29 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:29 [WARNING] [Safety] High temperature detected: 94.216696
+2025-05-14 16:04:29 [WARNING] [Safety] Low power level: 25.004652
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:29 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:29 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:29 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:29 [WARNING] [Safety] High temperature detected: 94.341134
+2025-05-14 16:04:29 [WARNING] [Safety] Low power level: 24.940088
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:29 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:29 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:29 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:29 [WARNING] [Safety] High temperature detected: 94.315018
+2025-05-14 16:04:29 [WARNING] [Safety] Low power level: 24.982233
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:29 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:29 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:29 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:29 [WARNING] [Safety] High temperature detected: 94.456488
+2025-05-14 16:04:29 [WARNING] [Safety] Low power level: 25.003485
+2025-05-14 16:04:29 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:29 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:29 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:29 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:29 [WARNING] [Safety] High temperature detected: 94.572705
+2025-05-14 16:04:29 [WARNING] [Safety] Low power level: 24.924834
+2025-05-14 16:04:29 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:29 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:29 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:29 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:29 [WARNING] [Safety] High temperature detected: 94.531558
+2025-05-14 16:04:29 [WARNING] [Safety] Low power level: 24.951455
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:29 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:29 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:29 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] [Safety] High temperature detected: 94.526496
+2025-05-14 16:04:29 [WARNING] [Safety] Low power level: 25.002938
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:29 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:29 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:29 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:29 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:29 [WARNING] [Safety] High temperature detected: 94.768240
+2025-05-14 16:04:29 [WARNING] [Safety] Low power level: 24.921956
+2025-05-14 16:04:29 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:29 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:29 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:29 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:29 [WARNING] [Safety] High temperature detected: 95.059547
+2025-05-14 16:04:29 [WARNING] [Safety] Low power level: 24.995570
+2025-05-14 16:04:30 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:30 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:30 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:30 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:30 [WARNING] [Safety] High temperature detected: 94.921904
+2025-05-14 16:04:30 [WARNING] [Safety] Low power level: 25.061630
+2025-05-14 16:04:30 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:30 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:30 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:30 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:30 [WARNING] [Safety] High temperature detected: 94.947295
+2025-05-14 16:04:30 [WARNING] [Safety] Low power level: 25.012267
+2025-05-14 16:04:30 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:30 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:30 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:30 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:30 [WARNING] [Safety] High temperature detected: 94.803564
+2025-05-14 16:04:30 [WARNING] [Safety] Low power level: 24.984733
+2025-05-14 16:04:30 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:30 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:30 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:30 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:30 [WARNING] [Safety] High temperature detected: 95.054300
+2025-05-14 16:04:30 [WARNING] [Safety] Low power level: 25.002422
+2025-05-14 16:04:30 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:30 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:30 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:30 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:30 [WARNING] [Safety] High temperature detected: 95.022817
+2025-05-14 16:04:30 [WARNING] [Safety] Low power level: 24.993183
+2025-05-14 16:04:30 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:30 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:30 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:30 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:30 [WARNING] [Safety] High temperature detected: 95.085575
+2025-05-14 16:04:30 [WARNING] [Safety] Low power level: 25.082354
+2025-05-14 16:04:30 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:30 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:30 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:30 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:30 [WARNING] [Safety] High temperature detected: 95.195137
+2025-05-14 16:04:30 [WARNING] [Safety] Low power level: 24.943873
+2025-05-14 16:04:30 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:30 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:30 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:30 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:30 [WARNING] [Safety] High temperature detected: 95.374554
+2025-05-14 16:04:30 [WARNING] [Safety] Low power level: 24.975296
+2025-05-14 16:04:30 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:30 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:30 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:30 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:30 [WARNING] [Safety] High temperature detected: 95.252076
+2025-05-14 16:04:30 [WARNING] [Safety] Low power level: 24.993470
+2025-05-14 16:04:30 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:31 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:31 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:31 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:31 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:31 [WARNING] [Safety] High temperature detected: 95.384773
+2025-05-14 16:04:31 [WARNING] [Safety] Low power level: 25.053237
+2025-05-14 16:04:31 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:31 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:31 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:31 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:31 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:31 [WARNING] [Safety] High temperature detected: 95.384907
+2025-05-14 16:04:31 [WARNING] [Safety] Low power level: 24.955510
+2025-05-14 16:04:31 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:31 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:31 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:31 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:31 [WARNING] [Safety] High temperature detected: 95.196328
+2025-05-14 16:04:31 [WARNING] [Safety] Low power level: 25.086735
+2025-05-14 16:04:31 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:31 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:31 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:31 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:31 [WARNING] [Safety] High temperature detected: 95.408997
+2025-05-14 16:04:31 [WARNING] [Safety] Low power level: 24.974793
+2025-05-14 16:04:31 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:31 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:31 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:31 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:31 [WARNING] [Safety] High temperature detected: 95.291704
+2025-05-14 16:04:31 [WARNING] [Safety] Low power level: 24.953945
+2025-05-14 16:04:31 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:31 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:31 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:31 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:31 [WARNING] [Safety] High temperature detected: 95.199053
+2025-05-14 16:04:31 [WARNING] [Safety] Low power level: 25.067200
+2025-05-14 16:04:31 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:31 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:31 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:31 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:31 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:31 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:31 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:31 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:31 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:31 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:31 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:31 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:31 [WARNING] [Safety] High temperature detected: 95.379655
+2025-05-14 16:04:31 [WARNING] [Safety] Low power level: 24.980522
+2025-05-14 16:04:31 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:31 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:31 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:31 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:31 [WARNING] [Safety] High temperature detected: 95.429111
+2025-05-14 16:04:31 [WARNING] [Safety] Low power level: 25.008859
+2025-05-14 16:04:32 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:32 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:32 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:32 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:32 [WARNING] [Safety] High temperature detected: 95.589443
+2025-05-14 16:04:32 [WARNING] [Safety] Low power level: 24.923244
+2025-05-14 16:04:32 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:32 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:32 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:32 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:32 [WARNING] [Safety] High temperature detected: 95.843557
+2025-05-14 16:04:32 [WARNING] [Safety] Low power level: 24.965011
+2025-05-14 16:04:32 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:32 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:32 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:32 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:32 [WARNING] [Safety] High temperature detected: 95.656845
+2025-05-14 16:04:32 [WARNING] [Safety] Low power level: 24.967900
+2025-05-14 16:04:32 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:32 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:32 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:32 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:32 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:32 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:32 [WARNING] [Safety] High temperature detected: 95.716171
+2025-05-14 16:04:32 [WARNING] [Safety] Low power level: 24.938756
+2025-05-14 16:04:32 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:32 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:32 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:32 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:32 [WARNING] [Safety] High temperature detected: 95.772105
+2025-05-14 16:04:32 [WARNING] [Safety] Low power level: 24.982076
+2025-05-14 16:04:32 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:32 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:32 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:32 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:32 [WARNING] [Safety] High temperature detected: 95.653628
+2025-05-14 16:04:32 [WARNING] [Safety] Low power level: 25.045683
+2025-05-14 16:04:32 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:32 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:32 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:32 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:32 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:32 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:32 [WARNING] [Safety] High temperature detected: 95.776871
+2025-05-14 16:04:32 [WARNING] [Safety] Low power level: 25.002415
+2025-05-14 16:04:32 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:32 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:32 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:32 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:32 [WARNING] [Safety] High temperature detected: 95.795245
+2025-05-14 16:04:32 [WARNING] [Safety] Low power level: 24.975273
+2025-05-14 16:04:32 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:32 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:32 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:32 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:32 [WARNING] [Safety] High temperature detected: 96.047024
+2025-05-14 16:04:32 [WARNING] [Safety] Low power level: 25.002922
+2025-05-14 16:04:33 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:33 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:33 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:33 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:33 [WARNING] [Safety] High temperature detected: 95.852564
+2025-05-14 16:04:33 [WARNING] [Safety] Low power level: 24.958202
+2025-05-14 16:04:33 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:33 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:33 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:33 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:33 [WARNING] [Safety] High temperature detected: 96.088637
+2025-05-14 16:04:33 [WARNING] [Safety] Low power level: 25.024957
+2025-05-14 16:04:33 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:33 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:33 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:33 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:33 [WARNING] [Safety] High temperature detected: 96.293370
+2025-05-14 16:04:33 [WARNING] [Safety] Low power level: 24.976963
+2025-05-14 16:04:33 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:33 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:33 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:33 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:33 [WARNING] [Safety] High temperature detected: 96.432415
+2025-05-14 16:04:33 [WARNING] [Safety] Low power level: 24.943543
+2025-05-14 16:04:33 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:33 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:33 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:33 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:33 [WARNING] [Safety] High temperature detected: 96.359208
+2025-05-14 16:04:33 [WARNING] [Safety] Low power level: 25.033843
+2025-05-14 16:04:33 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:33 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:33 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:33 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:33 [WARNING] [Safety] High temperature detected: 96.309236
+2025-05-14 16:04:33 [WARNING] [Safety] Low power level: 25.011812
+2025-05-14 16:04:33 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:33 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:33 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:33 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:33 [WARNING] [Safety] High temperature detected: 96.557701
+2025-05-14 16:04:33 [WARNING] [Safety] Low power level: 25.024081
+2025-05-14 16:04:33 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:33 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:33 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:33 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:33 [WARNING] [Safety] High temperature detected: 96.477527
+2025-05-14 16:04:33 [WARNING] [Safety] Low power level: 25.004198
+2025-05-14 16:04:33 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:33 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:33 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:33 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:33 [WARNING] [Safety] High temperature detected: 96.291627
+2025-05-14 16:04:33 [WARNING] [Safety] Low power level: 24.983723
+2025-05-14 16:04:34 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:34 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:34 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:34 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:34 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:34 [WARNING] [Safety] High temperature detected: 96.312789
+2025-05-14 16:04:34 [WARNING] [Safety] Low power level: 25.013748
+2025-05-14 16:04:34 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:34 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:34 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:34 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:34 [WARNING] [Safety] High temperature detected: 96.360388
+2025-05-14 16:04:34 [WARNING] [Safety] Low power level: 24.964641
+2025-05-14 16:04:34 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:34 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:34 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:34 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:34 [WARNING] [Safety] High temperature detected: 96.391965
+2025-05-14 16:04:34 [WARNING] [Safety] Low power level: 24.973326
+2025-05-14 16:04:34 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:34 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:34 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:34 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:34 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:34 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:34 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:34 [WARNING] [Safety] High temperature detected: 96.622644
+2025-05-14 16:04:34 [WARNING] [Safety] Low power level: 25.032824
+2025-05-14 16:04:34 [WARNING] Unknown message type: status_update
+2025-05-14 16:04:34 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:34 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:34 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:34 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:34 [WARNING] [Safety] High temperature detected: 96.503133
+2025-05-14 16:04:34 [WARNING] [Safety] Low power level: 25.023897
+2025-05-14 16:04:34 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:34 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:34 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:34 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:34 [WARNING] [Safety] High temperature detected: 96.776726
+2025-05-14 16:04:34 [WARNING] [Safety] Low power level: 24.967334
+2025-05-14 16:04:34 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:34 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:34 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:34 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:34 [WARNING] [Safety] High temperature detected: 96.907589
+2025-05-14 16:04:34 [WARNING] [Safety] Low power level: 25.014675
+2025-05-14 16:04:34 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:34 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:34 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:34 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:34 [WARNING] [Safety] High temperature detected: 96.739840
+2025-05-14 16:04:34 [WARNING] [Safety] Low power level: 25.002728
+2025-05-14 16:04:34 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:34 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:34 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:34 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:34 [WARNING] [Safety] High temperature detected: 96.736520
+2025-05-14 16:04:34 [WARNING] [Safety] Low power level: 24.932993
+2025-05-14 16:04:35 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:35 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:35 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:35 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:35 [WARNING] [Safety] High temperature detected: 96.859794
+2025-05-14 16:04:35 [WARNING] [Safety] Low power level: 24.979435
+2025-05-14 16:04:35 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:35 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:35 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:35 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:35 [WARNING] [Safety] High temperature detected: 97.082342
+2025-05-14 16:04:35 [WARNING] [Safety] Low power level: 24.985898
+2025-05-14 16:04:35 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:35 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:35 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:35 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:35 [WARNING] [Safety] High temperature detected: 97.151975
+2025-05-14 16:04:35 [WARNING] [Safety] Low power level: 25.035264
+2025-05-14 16:04:35 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:35 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:35 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:35 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:35 [WARNING] [Safety] High temperature detected: 97.027828
+2025-05-14 16:04:35 [WARNING] [Safety] Low power level: 25.005345
+2025-05-14 16:04:35 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:35 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:35 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:35 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:35 [WARNING] [Safety] High temperature detected: 96.830960
+2025-05-14 16:04:35 [WARNING] [Safety] Low power level: 24.955336
+2025-05-14 16:04:35 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:35 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:35 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:35 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:35 [WARNING] [Safety] High temperature detected: 96.698991
+2025-05-14 16:04:35 [WARNING] [Safety] Low power level: 25.069560
+2025-05-14 16:04:35 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:35 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:35 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:35 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:35 [WARNING] [Safety] High temperature detected: 96.857442
+2025-05-14 16:04:35 [WARNING] [Safety] Low power level: 24.977278
+2025-05-14 16:04:35 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:35 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:35 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:35 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:35 [WARNING] [Safety] High temperature detected: 96.863953
+2025-05-14 16:04:35 [WARNING] [Safety] Low power level: 24.995950
+2025-05-14 16:04:35 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:35 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:35 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:35 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:35 [WARNING] [Safety] High temperature detected: 96.698753
+2025-05-14 16:04:35 [WARNING] [Safety] Low power level: 25.045146
+2025-05-14 16:04:36 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:36 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:36 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:36 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:36 [WARNING] [Safety] High temperature detected: 96.812571
+2025-05-14 16:04:36 [WARNING] [Safety] Low power level: 24.923080
+2025-05-14 16:04:36 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:36 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:36 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:36 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:36 [WARNING] [Safety] High temperature detected: 96.849838
+2025-05-14 16:04:36 [WARNING] [Safety] Low power level: 24.970198
+2025-05-14 16:04:36 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:36 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:36 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:36 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:36 [WARNING] [Safety] High temperature detected: 96.984657
+2025-05-14 16:04:36 [WARNING] [Safety] Low power level: 25.021780
+2025-05-14 16:04:36 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:36 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:36 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:36 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:36 [WARNING] [Safety] High temperature detected: 97.021370
+2025-05-14 16:04:36 [WARNING] [Safety] Low power level: 24.973241
+2025-05-14 16:04:36 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:36 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:36 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:36 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:36 [WARNING] [Safety] High temperature detected: 96.853525
+2025-05-14 16:04:36 [WARNING] [Safety] Low power level: 24.948274
+2025-05-14 16:04:36 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:36 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:36 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:36 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:36 [WARNING] [Safety] High temperature detected: 97.012612
+2025-05-14 16:04:36 [WARNING] [Safety] Low power level: 25.056738
+2025-05-14 16:04:36 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:36 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:36 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:36 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:36 [WARNING] [Safety] High temperature detected: 96.954738
+2025-05-14 16:04:36 [WARNING] [Safety] Low power level: 24.948289
+2025-05-14 16:04:36 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:36 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:36 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:36 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:36 [WARNING] [Safety] High temperature detected: 96.939577
+2025-05-14 16:04:36 [WARNING] [Safety] Low power level: 24.985780
+2025-05-14 16:04:36 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:36 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:36 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:36 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:36 [WARNING] [Safety] High temperature detected: 96.850403
+2025-05-14 16:04:36 [WARNING] [Safety] Low power level: 25.024595
+2025-05-14 16:04:37 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:37 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:37 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:37 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:37 [WARNING] [Safety] High temperature detected: 96.923852
+2025-05-14 16:04:37 [WARNING] [Safety] Low power level: 25.053870
+2025-05-14 16:04:37 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:37 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:37 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:37 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:37 [WARNING] [Safety] High temperature detected: 96.799593
+2025-05-14 16:04:37 [WARNING] [Safety] Low power level: 25.005851
+2025-05-14 16:04:37 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:37 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:37 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:37 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:37 [WARNING] [Safety] High temperature detected: 96.668332
+2025-05-14 16:04:37 [WARNING] [Safety] Low power level: 25.013099
+2025-05-14 16:04:37 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:37 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:37 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:37 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:37 [WARNING] [Safety] High temperature detected: 96.546042
+2025-05-14 16:04:37 [WARNING] [Safety] Low power level: 25.032715
+2025-05-14 16:04:37 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:37 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:37 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:37 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:37 [WARNING] [Safety] High temperature detected: 96.762958
+2025-05-14 16:04:37 [WARNING] [Safety] Low power level: 24.997033
+2025-05-14 16:04:37 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:37 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:37 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:37 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:37 [WARNING] [Safety] High temperature detected: 96.947774
+2025-05-14 16:04:37 [WARNING] [Safety] Low power level: 25.010923
+2025-05-14 16:04:37 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:37 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:37 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:37 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:37 [WARNING] [Safety] High temperature detected: 97.234325
+2025-05-14 16:04:37 [WARNING] [Safety] Low power level: 24.967875
+2025-05-14 16:04:37 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:37 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:37 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:37 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:37 [WARNING] [Safety] High temperature detected: 97.167354
+2025-05-14 16:04:37 [WARNING] [Safety] Low power level: 25.013907
+2025-05-14 16:04:38 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:38 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:38 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:38 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:38 [WARNING] [Safety] High temperature detected: 97.031659
+2025-05-14 16:04:38 [WARNING] [Safety] Low power level: 25.028953
+2025-05-14 16:04:38 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:38 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:38 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:38 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:38 [WARNING] [Safety] High temperature detected: 97.223813
+2025-05-14 16:04:38 [WARNING] [Safety] Low power level: 25.067914
+2025-05-14 16:04:38 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:38 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:38 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:38 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:38 [WARNING] [Safety] High temperature detected: 97.515794
+2025-05-14 16:04:38 [WARNING] [Safety] Low power level: 25.055222
+2025-05-14 16:04:38 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:38 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:38 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:38 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:38 [WARNING] [Safety] High temperature detected: 97.440661
+2025-05-14 16:04:38 [WARNING] [Safety] Low power level: 24.970653
+2025-05-14 16:04:38 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:38 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:38 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:38 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:38 [WARNING] [Safety] High temperature detected: 97.525382
+2025-05-14 16:04:38 [WARNING] [Safety] Low power level: 24.984470
+2025-05-14 16:04:38 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:38 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:38 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:38 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:38 [WARNING] [Safety] High temperature detected: 97.363501
+2025-05-14 16:04:38 [WARNING] [Safety] Low power level: 24.986749
+2025-05-14 16:04:38 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:38 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:38 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:38 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:38 [WARNING] [Safety] High temperature detected: 97.286117
+2025-05-14 16:04:38 [WARNING] [Safety] Low power level: 25.059612
+2025-05-14 16:04:39 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:39 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:39 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:39 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:39 [WARNING] [Safety] High temperature detected: 97.095958
+2025-05-14 16:04:39 [WARNING] [Safety] Low power level: 24.949429
+2025-05-14 16:04:39 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:39 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:39 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:39 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:39 [WARNING] [Safety] High temperature detected: 97.292788
+2025-05-14 16:04:39 [WARNING] [Safety] Low power level: 25.031134
+2025-05-14 16:04:39 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:39 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:39 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:39 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:39 [WARNING] [Safety] High temperature detected: 97.494328
+2025-05-14 16:04:39 [WARNING] [Safety] Low power level: 25.007480
+2025-05-14 16:04:39 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:39 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:39 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:39 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:39 [WARNING] [Safety] High temperature detected: 97.411070
+2025-05-14 16:04:39 [WARNING] [Safety] Low power level: 24.920409
+2025-05-14 16:04:39 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:39 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:39 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:39 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:39 [WARNING] [Safety] High temperature detected: 97.275206
+2025-05-14 16:04:39 [WARNING] [Safety] Low power level: 24.983656
+2025-05-14 16:04:39 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:39 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:39 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:39 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:39 [WARNING] [Safety] High temperature detected: 97.528192
+2025-05-14 16:04:39 [WARNING] [Safety] Low power level: 24.985710
+2025-05-14 16:04:39 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:39 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:39 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:39 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:39 [WARNING] [Safety] High temperature detected: 97.346595
+2025-05-14 16:04:39 [WARNING] [Safety] Low power level: 24.996738
+2025-05-14 16:04:39 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:39 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:39 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:39 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:39 [WARNING] [Safety] High temperature detected: 97.150748
+2025-05-14 16:04:39 [WARNING] [Safety] Low power level: 25.052822
+2025-05-14 16:04:40 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:40 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:40 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:40 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:40 [WARNING] [Safety] High temperature detected: 97.278056
+2025-05-14 16:04:40 [WARNING] [Safety] Low power level: 25.001133
+2025-05-14 16:04:40 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:40 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:40 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:40 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:40 [WARNING] [Safety] High temperature detected: 97.215067
+2025-05-14 16:04:40 [WARNING] [Safety] Low power level: 24.920841
+2025-05-14 16:04:40 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:40 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:40 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:40 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:40 [WARNING] [Safety] High temperature detected: 97.376774
+2025-05-14 16:04:40 [WARNING] [Safety] Low power level: 24.912147
+2025-05-14 16:04:40 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:40 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:40 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:40 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:40 [WARNING] [Safety] High temperature detected: 97.238669
+2025-05-14 16:04:40 [WARNING] [Safety] Low power level: 25.024762
+2025-05-14 16:04:40 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:40 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:40 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:40 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:40 [WARNING] [Safety] High temperature detected: 97.507951
+2025-05-14 16:04:40 [WARNING] [Safety] Low power level: 24.995750
+2025-05-14 16:04:40 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:40 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:40 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:40 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:40 [WARNING] [Safety] High temperature detected: 97.528944
+2025-05-14 16:04:40 [WARNING] [Safety] Low power level: 24.994433
+2025-05-14 16:04:40 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:40 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:40 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:40 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:40 [WARNING] [Safety] High temperature detected: 97.799487
+2025-05-14 16:04:40 [WARNING] [Safety] Low power level: 25.015417
+2025-05-14 16:04:40 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:40 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:40 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:40 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:40 [WARNING] [Safety] High temperature detected: 97.710578
+2025-05-14 16:04:40 [WARNING] [Safety] Low power level: 24.967726
+2025-05-14 16:04:40 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:40 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:40 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:40 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:40 [WARNING] [Safety] High temperature detected: 97.940990
+2025-05-14 16:04:40 [WARNING] [Safety] Low power level: 24.926560
+2025-05-14 16:04:41 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:41 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:41 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:41 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:41 [WARNING] [Safety] High temperature detected: 97.800372
+2025-05-14 16:04:41 [WARNING] [Safety] Low power level: 24.956942
+2025-05-14 16:04:41 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:41 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:41 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:41 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:41 [WARNING] [Safety] High temperature detected: 98.075178
+2025-05-14 16:04:41 [WARNING] [Safety] Low power level: 25.047150
+2025-05-14 16:04:41 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:41 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:41 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:41 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:41 [WARNING] [Safety] High temperature detected: 98.274376
+2025-05-14 16:04:41 [WARNING] [Safety] Low power level: 24.963979
+2025-05-14 16:04:41 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:41 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:41 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:41 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:41 [WARNING] [Safety] High temperature detected: 98.111700
+2025-05-14 16:04:41 [WARNING] [Safety] Low power level: 24.981380
+2025-05-14 16:04:41 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:41 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:41 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:41 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:41 [WARNING] [Safety] High temperature detected: 98.058143
+2025-05-14 16:04:41 [WARNING] [Safety] Low power level: 24.967144
+2025-05-14 16:04:41 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:41 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:41 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:41 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:41 [WARNING] [Safety] High temperature detected: 98.115893
+2025-05-14 16:04:41 [WARNING] [Safety] Low power level: 24.979915
+2025-05-14 16:04:41 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:41 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:41 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:41 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:41 [WARNING] [Safety] High temperature detected: 98.247527
+2025-05-14 16:04:41 [WARNING] [Safety] Low power level: 25.024161
+2025-05-14 16:04:41 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:41 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:41 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:41 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:41 [WARNING] [Safety] High temperature detected: 98.098250
+2025-05-14 16:04:41 [WARNING] [Safety] Low power level: 25.000937
+2025-05-14 16:04:42 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:42 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:42 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:42 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:42 [WARNING] [Safety] High temperature detected: 97.903618
+2025-05-14 16:04:42 [WARNING] [Safety] Low power level: 24.960412
+2025-05-14 16:04:42 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:42 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:42 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:42 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:42 [WARNING] [Safety] High temperature detected: 97.728532
+2025-05-14 16:04:42 [WARNING] [Safety] Low power level: 24.941218
+2025-05-14 16:04:42 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:42 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:42 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:42 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:42 [WARNING] [Safety] High temperature detected: 97.815046
+2025-05-14 16:04:42 [WARNING] [Safety] Low power level: 24.962733
+2025-05-14 16:04:42 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:42 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:42 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:42 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:42 [WARNING] [Safety] High temperature detected: 98.072589
+2025-05-14 16:04:42 [WARNING] [Safety] Low power level: 24.986989
+2025-05-14 16:04:42 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:42 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:42 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:42 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:42 [WARNING] [Safety] High temperature detected: 98.135190
+2025-05-14 16:04:42 [WARNING] [Safety] Low power level: 24.986057
+2025-05-14 16:04:42 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:42 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:42 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:42 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:42 [WARNING] [Safety] High temperature detected: 98.422808
+2025-05-14 16:04:42 [WARNING] [Safety] Low power level: 24.988298
+2025-05-14 16:04:42 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:42 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:42 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:42 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:42 [WARNING] [Safety] High temperature detected: 98.705293
+2025-05-14 16:04:42 [WARNING] [Safety] Low power level: 25.045391
+2025-05-14 16:04:42 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:42 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:42 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:42 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:42 [WARNING] [Safety] High temperature detected: 98.819952
+2025-05-14 16:04:42 [WARNING] [Safety] Low power level: 25.000833
+2025-05-14 16:04:43 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:43 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:43 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:43 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:43 [WARNING] [Safety] High temperature detected: 98.839201
+2025-05-14 16:04:43 [WARNING] [Safety] Low power level: 24.938421
+2025-05-14 16:04:43 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:43 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:43 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:43 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:43 [WARNING] [Safety] High temperature detected: 99.095563
+2025-05-14 16:04:43 [WARNING] [Safety] Low power level: 24.996191
+2025-05-14 16:04:43 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:43 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:43 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:43 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:43 [WARNING] [Safety] High temperature detected: 99.308565
+2025-05-14 16:04:43 [WARNING] [Safety] Low power level: 25.065170
+2025-05-14 16:04:43 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:43 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:43 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:43 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:43 [WARNING] [Safety] High temperature detected: 99.476014
+2025-05-14 16:04:43 [WARNING] [Safety] Low power level: 25.019092
+2025-05-14 16:04:43 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:43 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:43 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:43 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:43 [WARNING] [Safety] High temperature detected: 99.616671
+2025-05-14 16:04:43 [WARNING] [Safety] Low power level: 25.023874
+2025-05-14 16:04:43 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:43 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:43 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:43 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:43 [WARNING] [Safety] High temperature detected: 99.869303
+2025-05-14 16:04:43 [WARNING] [Safety] Low power level: 25.036575
+2025-05-14 16:04:43 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:43 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:43 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:43 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:43 [WARNING] [Safety] High temperature detected: 100.148637
+2025-05-14 16:04:43 [WARNING] [Safety] Low power level: 25.020576
+2025-05-14 16:04:43 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:43 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:43 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:43 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:43 [WARNING] [Safety] High temperature detected: 100.133994
+2025-05-14 16:04:43 [WARNING] [Safety] Low power level: 25.004023
+2025-05-14 16:04:44 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:44 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:44 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:44 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:44 [WARNING] [Safety] High temperature detected: 100.063186
+2025-05-14 16:04:44 [WARNING] [Safety] Low power level: 24.979041
+2025-05-14 16:04:44 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:44 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:44 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:44 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:44 [WARNING] [Safety] High temperature detected: 100.052401
+2025-05-14 16:04:44 [WARNING] [Safety] Low power level: 24.989966
+2025-05-14 16:04:44 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:44 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:44 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:44 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:44 [WARNING] [Safety] High temperature detected: 99.898503
+2025-05-14 16:04:44 [WARNING] [Safety] Low power level: 25.053012
+2025-05-14 16:04:44 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:44 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:44 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:44 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:44 [WARNING] [Safety] High temperature detected: 99.934035
+2025-05-14 16:04:44 [WARNING] [Safety] Low power level: 24.983340
+2025-05-14 16:04:44 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:44 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:44 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:44 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:44 [WARNING] [Safety] High temperature detected: 100.117974
+2025-05-14 16:04:44 [WARNING] [Safety] Low power level: 25.029642
+2025-05-14 16:04:44 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:44 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:44 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:44 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:44 [WARNING] [Safety] High temperature detected: 100.249936
+2025-05-14 16:04:44 [WARNING] [Safety] Low power level: 25.004494
+2025-05-14 16:04:44 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:44 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:44 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:44 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:44 [WARNING] [Safety] High temperature detected: 100.319451
+2025-05-14 16:04:44 [WARNING] [Safety] Low power level: 24.932014
+2025-05-14 16:04:44 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:44 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:44 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:44 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:44 [WARNING] [Safety] High temperature detected: 100.542101
+2025-05-14 16:04:44 [WARNING] [Safety] Low power level: 24.954577
+2025-05-14 16:04:45 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:45 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:45 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:45 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:45 [WARNING] [Safety] High temperature detected: 100.573478
+2025-05-14 16:04:45 [WARNING] [Safety] Low power level: 25.056655
+2025-05-14 16:04:45 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:45 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:45 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:45 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:45 [WARNING] [Safety] High temperature detected: 100.509881
+2025-05-14 16:04:45 [WARNING] [Safety] Low power level: 24.982287
+2025-05-14 16:04:45 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:45 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:45 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:45 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:45 [WARNING] [Safety] High temperature detected: 100.374525
+2025-05-14 16:04:45 [WARNING] [Safety] Low power level: 24.959135
+2025-05-14 16:04:45 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:45 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:45 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:45 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:45 [WARNING] [Safety] High temperature detected: 100.263226
+2025-05-14 16:04:45 [WARNING] [Safety] Low power level: 25.001313
+2025-05-14 16:04:45 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:45 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:45 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:45 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:45 [WARNING] [Safety] High temperature detected: 100.388194
+2025-05-14 16:04:45 [WARNING] [Safety] Low power level: 24.989542
+2025-05-14 16:04:46 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:46 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:46 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:46 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:46 [WARNING] [Safety] High temperature detected: 100.561057
+2025-05-14 16:04:46 [WARNING] [Safety] Low power level: 25.035556
+2025-05-14 16:04:46 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:46 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:46 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:46 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:46 [WARNING] [Safety] High temperature detected: 100.669752
+2025-05-14 16:04:46 [WARNING] [Safety] Low power level: 25.065963
+2025-05-14 16:04:46 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:46 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:46 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:46 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:46 [WARNING] [Safety] High temperature detected: 100.960152
+2025-05-14 16:04:46 [WARNING] [Safety] Low power level: 25.011365
+2025-05-14 16:04:46 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:46 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:46 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:46 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:46 [WARNING] [Safety] High temperature detected: 100.921111
+2025-05-14 16:04:46 [WARNING] [Safety] Low power level: 24.971115
+2025-05-14 16:04:46 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:46 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:46 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:46 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:46 [WARNING] [Safety] High temperature detected: 101.211331
+2025-05-14 16:04:46 [WARNING] [Safety] Low power level: 24.938184
+2025-05-14 16:04:46 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:46 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:46 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:46 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:46 [WARNING] [Safety] High temperature detected: 101.333130
+2025-05-14 16:04:46 [WARNING] [Safety] Low power level: 24.946224
+2025-05-14 16:04:46 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:46 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:46 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:46 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:46 [WARNING] [Safety] High temperature detected: 101.468331
+2025-05-14 16:04:46 [WARNING] [Safety] Low power level: 25.020113
+2025-05-14 16:04:46 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:46 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:46 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:46 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:46 [WARNING] [Safety] High temperature detected: 101.691393
+2025-05-14 16:04:46 [WARNING] [Safety] Low power level: 24.953463
+2025-05-14 16:04:46 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:46 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:46 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:46 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:46 [WARNING] [Safety] High temperature detected: 101.711923
+2025-05-14 16:04:46 [WARNING] [Safety] Low power level: 25.081597
+2025-05-14 16:04:47 [ERROR] [Safety] EMERGENCY PROTOCOL TRIGGERED: System unresponsive
+2025-05-14 16:04:47 [WARNING] [Safety] Emergency thrust halt initiated
+2025-05-14 16:04:47 [WARNING] [Safety] Switching to low-power mode
+2025-05-14 16:04:47 [WARNING] [Safety] Executing emergency fallback procedures
+2025-05-14 16:04:47 [WARNING] [Safety] High temperature detected: 101.723706
+2025-05-14 16:04:47 [WARNING] [Safety] Low power level: 24.978508
